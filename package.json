@@ -1,0 +1,11 @@
+{
+  "name": "detention-system",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public-good registry of ICE detention centers + ERO field offices (placeholder name).",
+  "scripts": {
+    "review": "node scripts/facility-review.mjs",
+    "release": "node scripts/build-release.mjs"
+  }
+}

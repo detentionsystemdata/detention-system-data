@@ -1,0 +1,2857 @@
+[
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-adelanto-immigration-court",
+  "xref": "court-adelanto-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/adelanto-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Adelanto Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Adelanto Detention Facility, 10250 Rancho Road, Suite 201A, Adelanto, CA 92301",
+    "zip": "92301"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-annandale-immigration-court",
+  "xref": "court-annandale-immigration-court",
+  "kind": "immigration-court",
+  "state": "VA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/annandale-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Annandale Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "7619 Little River Turnpike, Suite 400, Annandale, VA 22003",
+    "zip": "22003"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-atlanta-w-peachtree-street",
+  "xref": "court-atlanta-w-peachtree-street",
+  "kind": "immigration-court",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/atlanta-w-peachtree-street",
+  "fields": {
+   "name": [
+    {
+     "value": "Atlanta - W. Peachtree Street Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "401 W. Peachtree Street, Suite 2600, Atlanta, GA 30308",
+    "zip": "30308"
+   },
+   "operationalStatus": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed."
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-atlanta-ted-turner-drive",
+  "xref": "court-atlanta-ted-turner-drive",
+  "kind": "immigration-court",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/atlanta-ted-turner-drive",
+  "fields": {
+   "name": [
+    {
+     "value": "Atlanta – Ted Turner Drive Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "180 Ted Turner Drive, SW, Suite 241, Atlanta, GA 30303",
+    "zip": "30303"
+   },
+   "operationalStatus": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed."
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-aurora-immigration-court",
+  "xref": "court-aurora-immigration-court",
+  "kind": "immigration-court",
+  "state": "CO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/aurora-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Aurora Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "3130 N. Oakland Street, Aurora, CO 80010",
+    "zip": "80010"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-baltimore-immigration-court",
+  "xref": "court-baltimore-immigration-court",
+  "kind": "immigration-court",
+  "state": "MD",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/baltimore-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Baltimore Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "31 Hopkins Plaza, Room 440, Baltimore, MD 21201",
+    "zip": "21201"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-batavia-immigration-court",
+  "xref": "court-batavia-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/batavia-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Batavia Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "4250 Federal Drive, Room F108, Batavia, NY 14020",
+    "zip": "14020"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-baton-rouge-immigration-court",
+  "xref": "court-baton-rouge-immigration-court",
+  "kind": "immigration-court",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/baton-rouge-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Baton Rouge Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "451 Florida Street, Suite 500, Baton Rouge, LA 70801",
+    "zip": "70801"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-boston-immigration-court",
+  "xref": "court-boston-immigration-court",
+  "kind": "immigration-court",
+  "state": "MA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/boston-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Boston Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "15 New Sudbury Street, Room 320, Boston, MA 02203",
+    "zip": "02203"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-buffalo-immigration-court",
+  "xref": "court-buffalo-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/buffalo-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Buffalo Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "130 Delaware Avenue, Suite 300, Buffalo, NY 14202",
+    "zip": "14202"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-charlotte-immigration-court",
+  "xref": "court-charlotte-immigration-court",
+  "kind": "immigration-court",
+  "state": "NC",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/charlotte-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Charlotte Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "5701 Executive Center Drive, Suite 400, Charlotte, NC 28212",
+    "zip": "28212"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-lowell-immigration-court",
+  "xref": "court-lowell-immigration-court",
+  "kind": "immigration-court",
+  "state": "MA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lowell-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Chelmsford Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+    "zip": "01824"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-chelmsford-immigration-court",
+  "xref": "court-chelmsford-immigration-court",
+  "kind": "immigration-court",
+  "state": "MA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/chelmsford-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Chelmsford Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+    "zip": "01824"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-chicago-immigration-court",
+  "xref": "court-chicago-immigration-court",
+  "kind": "immigration-court",
+  "state": "IL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/chicago-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Chicago Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "55 E. Monroe Street*, Suite 1500, Chicago, IL 60603",
+    "zip": "60603"
+   },
+   "operationalStatus": "Monroe Street: OPEN Clark Street: OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-cleveland-immigration-court",
+  "xref": "court-cleveland-immigration-court",
+  "kind": "immigration-court",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/cleveland-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Cleveland Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "801 W. Superior Avenue, Suite 13 - 100, Cleveland, OH 44113",
+    "zip": "44113"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-conroe-immigration-court",
+  "xref": "court-conroe-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/conroe-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Conroe Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "806 Hilbig Road, Conroe, TX 77301",
+    "zip": "77301"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-dallas-immigration-court",
+  "xref": "court-dallas-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/dallas-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Dallas Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1100 Commerce Street, Suite 1060, Dallas, TX 75242",
+    "zip": "75242"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-denver-immigration-court",
+  "xref": "court-denver-immigration-court",
+  "kind": "immigration-court",
+  "state": "CO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/denver-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Denver Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1961 Stout Street, Suite 3101, Denver, CO 80294",
+    "zip": "80294"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-detroit-immigration-court",
+  "xref": "court-detroit-immigration-court",
+  "kind": "immigration-court",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/detroit-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Detroit Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "477 Michigan Avenue, Suite 440, Detroit, MI 48226",
+    "zip": "48226"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-el-paso-immigration-courts",
+  "xref": "court-el-paso-immigration-courts",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-immigration-courts",
+  "fields": {
+   "name": [
+    {
+     "value": "El Paso Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",
+    "zip": "79901"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-el-paso-spc-0",
+  "xref": "court-el-paso-spc-0",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "name": [
+    {
+     "value": "El Paso SPC Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "8915 Montana Avenue, Suite 100, El Paso, TX 79925",
+    "zip": "79925"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-elizabeth-immigration-court",
+  "xref": "court-elizabeth-immigration-court",
+  "kind": "immigration-court",
+  "state": "NJ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/elizabeth-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Elizabeth Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "625 Evans Street, Room 148A, Elizabeth, NJ 07201",
+    "zip": "07201"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-eloy-immigration-court",
+  "xref": "court-eloy-immigration-court",
+  "kind": "immigration-court",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/eloy-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Eloy Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1705 E. Hanna Road, Suite 366, Eloy, AZ 85131",
+    "zip": "85131"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-florence-immigration-court",
+  "xref": "court-florence-immigration-court",
+  "kind": "immigration-court",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/florence-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Florence Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "3260 N. Pinal Parkway Avenue, Florence, AZ 85132",
+    "zip": "85132"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-fort-snelling-immigration-court",
+  "xref": "court-fort-snelling-immigration-court",
+  "kind": "immigration-court",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/fort-snelling-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Fort Snelling Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1 Federal Drive, Suite 1850, Fort Snelling, MN 55111",
+    "zip": "55111"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-guaynabo-puerto-rico-immigration-court",
+  "xref": "court-guaynabo-puerto-rico-immigration-court",
+  "kind": "immigration-court",
+  "state": "PR",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/guaynabo-puerto-rico-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Guaynabo (San Juan) Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "#7 Tabonuco Street, Room 401, Guaynabo, PR 00968",
+    "zip": "00968"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-harlingen-immigration-court",
+  "xref": "court-harlingen-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Harlingen Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",
+    "zip": "78550"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-hartford-immigration-court",
+  "xref": "court-hartford-immigration-court",
+  "kind": "immigration-court",
+  "state": "CT",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/hartford-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Hartford Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "450 Main Street, Room 628, Hartford, CT 06103",
+    "zip": "06103"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-honolulu-immigration-court",
+  "xref": "court-honolulu-immigration-court",
+  "kind": "immigration-court",
+  "state": "HI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/honolulu-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Honolulu Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "300 Ala Moana Boulevard, Room 8-112, Honolulu, HI 96850",
+    "zip": "96850"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-houston-jefferson-street-immigration-court",
+  "xref": "court-houston-jefferson-street-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/houston-jefferson-street-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Houston - Jefferson Street Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "500 Jefferson Street, Suite 300, Houston, TX 77002",
+    "zip": "77002"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-houston-greenspoint-park-immigration-court",
+  "xref": "court-houston-greenspoint-park-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/houston-greenspoint-park-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Houston – Greenspoint Park Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",
+    "zip": "77060"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-houston-south-gessner-road-immigration-court",
+  "xref": "court-houston-south-gessner-road-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/houston-south-gessner-road-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Houston – S. Gessner Road Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "8701 S. Gessner Road, 10th Floor, Houston, TX 77074",
+    "zip": "77074"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-hyattsville-immigration-court",
+  "xref": "court-hyattsville-immigration-court",
+  "kind": "immigration-court",
+  "state": "MD",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/hyattsville-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Hyattsville Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "3311 Toledo Road, Suite 105, Hyattsville, MD 20782",
+    "zip": "20782"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-imperial-immigration-court",
+  "xref": "court-imperial-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/imperial-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Imperial Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "2409 La Brucherie Road, Imperial, CA 92251",
+    "zip": "92251"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-indianapolis-immigration-court",
+  "xref": "court-indianapolis-immigration-court",
+  "kind": "immigration-court",
+  "state": "IN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/indianapolis-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Indianapolis Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "575 N. Pennsylvania Street, Suite 617, Indianapolis, IN 46204",
+    "zip": "46204"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-kansas-city-immigration-court",
+  "xref": "court-kansas-city-immigration-court",
+  "kind": "immigration-court",
+  "state": "MO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/kansas-city-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Kansas City Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "2345 Grand Boulevard, Suite 525, Kansas City, MO 64108",
+    "zip": "64108"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-laredo-immigration-court",
+  "xref": "court-laredo-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/laredo-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Laredo Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1406 Jacaman Road, Suite B, Laredo, TX 78041",
+    "zip": "78041"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-las-vegas-immigration-court",
+  "xref": "court-las-vegas-immigration-court",
+  "kind": "immigration-court",
+  "state": "NV",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/las-vegas-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Las Vegas Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "110 North City Parkway, Suite 400, Las Vegas, NV 89106",
+    "zip": "89106"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-lasalle-immigration-court",
+  "xref": "court-lasalle-immigration-court",
+  "kind": "immigration-court",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lasalle-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "LaSalle Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "830 Pine Hill Road, P.O. Box 2179, Jena, LA 71342",
+    "zip": "71342"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-los-angeles-van-nuys-boulevard-immigration-court",
+  "xref": "court-los-angeles-van-nuys-boulevard-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-van-nuys-boulevard-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Los Angeles - Van Nuys Boulevard Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "6230 Van Nuys Boulevard, 3rd Floor, Suite 300, Van Nuys, CA 91401",
+    "zip": "91401"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-los-angeles-n-los-angeles-street-immigration-court",
+  "xref": "court-los-angeles-n-los-angeles-street-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Los Angeles – N. Los Angeles Street Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "300 North Los Angeles Street, Room 4330, Los Angeles, CA 90012",
+    "zip": "90012"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-los-angeles-west-los-angeles-immigration-court",
+  "xref": "court-los-angeles-west-los-angeles-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-west-los-angeles-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Los Angeles – West Los Angeles Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "5245 Pacific Concourse Drive, Los Angeles, CA 90045",
+    "zip": "90045"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-memphis-immigration-court",
+  "xref": "court-memphis-immigration-court",
+  "kind": "immigration-court",
+  "state": "TN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/memphis-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Memphis Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Brinkley Plaza - 80 Monroe Avenue, Suite 501, Memphis, TN 38103",
+    "zip": "38103"
+   },
+   "operationalStatus": "OPEN Louisville Hearing Location: OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-miami-immigration-court",
+  "xref": "court-miami-immigration-court",
+  "kind": "immigration-court",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/miami-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Miami Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "One Riverview Square, 333 S. Miami Avenue, Suite 700, Miami, FL 33130",
+    "zip": "33130"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-miami-krome-immigration-court",
+  "xref": "court-miami-krome-immigration-court",
+  "kind": "immigration-court",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/miami-krome-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Miami Krome (Detained) Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Krome North Processing Center, 18201 SW 12th Street, Miami, FL 33194",
+    "zip": "33194"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-new-orleans-immigration-court",
+  "xref": "court-new-orleans-immigration-court",
+  "kind": "immigration-court",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-orleans-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "New Orleans Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "One Canal Place, 365 Canal Street, Suite 500, New Orleans, LA 70130",
+    "zip": "70130"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-new-york-broadway-immigration-court",
+  "xref": "court-new-york-broadway-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-broadway-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "New York - Broadway Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "290 Broadway, Suite 2900, Ted Weiss Federal Building, New York, NY 10007",
+    "zip": "10007"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-new-york-federal-plaza-immigration-court",
+  "xref": "court-new-york-federal-plaza-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-federal-plaza-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "New York - Federal Plaza Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "26 Federal Plaza, 12th Floor, Room 1237, New York, NY 10278",
+    "zip": "10278"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-new-york-varick-immigration-court",
+  "xref": "court-new-york-varick-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-varick-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "New York - Varick Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "201 Varick Street, 5th Floor, Room 507, New York, NY 10014",
+    "zip": "10014"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-newark-immigration-court",
+  "xref": "court-newark-immigration-court",
+  "kind": "immigration-court",
+  "state": "NJ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/newark-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Newark Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "970 Broad Street, Room 1200, Newark, NJ 07102",
+    "zip": "07102"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-oakdale-immigration-court",
+  "xref": "court-oakdale-immigration-court",
+  "kind": "immigration-court",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/oakdale-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Oakdale Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1900 E. Whatley Road, Oakdale, LA 71463",
+    "zip": "71463"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-omaha-immigration-court",
+  "xref": "court-omaha-immigration-court",
+  "kind": "immigration-court",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/omaha-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Omaha Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1717 Avenue H, Suite 100, Omaha, NE 68110",
+    "zip": "68110"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-orlando-immigration-court",
+  "xref": "court-orlando-immigration-court",
+  "kind": "immigration-court",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/orlando-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Orlando Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "500 N. Orange Avenue, Suite 1100, Orlando, FL 32801",
+    "zip": "32801"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-otay-mesa-immigration-court",
+  "xref": "court-otay-mesa-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Otay Mesa Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "7488 Calzada de la Fuente, San Diego, CA 92154",
+    "zip": "92154"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-otero-immigration-court",
+  "xref": "court-otero-immigration-court",
+  "kind": "immigration-court",
+  "state": "NM",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otero-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Otero Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "26 McGregor Range Road, Door #1, Chaparral, NM 88081",
+    "zip": "88081"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-pearsall-immigration-court",
+  "xref": "court-pearsall-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/pearsall-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Pearsall Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "566 Veterans Drive, Pearsall, TX 78061",
+    "zip": "78061"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-philadelphia-pa",
+  "xref": "court-philadelphia-pa",
+  "kind": "immigration-court",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/philadelphia-pa",
+  "fields": {
+   "name": [
+    {
+     "value": "Philadelphia Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "900 Market Street, Suite 504, Philadelphia, PA 19107",
+    "zip": "19107"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-phoenix-immigration-court",
+  "xref": "court-phoenix-immigration-court",
+  "kind": "immigration-court",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/phoenix-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Phoenix Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "250 N. Seventh Avenue, Suite 300, Phoenix, AZ 85007",
+    "zip": "85007"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-los-fresnos-immigration-court",
+  "xref": "court-los-fresnos-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Port Isabel Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",
+    "zip": "78566"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-portland-immigration-court",
+  "xref": "court-portland-immigration-court",
+  "kind": "immigration-court",
+  "state": "OR",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/portland-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Portland Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1220 SW 3rd Avenue, Suite 500, Portland, OR 97204",
+    "zip": "97204"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-sacramento-immigration-court",
+  "xref": "court-sacramento-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/sacramento-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Sacramento Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "John Moss Federal Building, 650 Capitol Mall, Suite 4-200, Sacramento, CA 95814",
+    "zip": "95814"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-saipan-immigration-court",
+  "xref": "court-saipan-immigration-court",
+  "kind": "immigration-court",
+  "state": "MP",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/saipan-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Saipan Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Marina Heights II Building, Suite 301, Saipan, MP 96950",
+    "zip": "96950"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-salt-lake-city-immigration-court",
+  "xref": "court-salt-lake-city-immigration-court",
+  "kind": "immigration-court",
+  "state": "UT",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/salt-lake-city-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Salt Lake City Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "2975 South Decker Lake Drive, Suite 200, West Valley City, UT 84119",
+    "zip": "84119"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-san-antonio-immigration-court",
+  "xref": "court-san-antonio-immigration-court",
+  "kind": "immigration-court",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-antonio-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "San Antonio Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "800 Dolorosa Street, Suite 300, San Antonio, TX 78207",
+    "zip": "78207"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-san-diego-immigration-court",
+  "xref": "court-san-diego-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-diego-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "San Diego Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "880 Front Street, Suite 4240, San Diego, CA 92101",
+    "zip": "92101"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-san-francisco-immigration-court",
+  "xref": "court-san-francisco-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-francisco-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "San Francisco Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "100 Montgomery Street, Suite 800, San Francisco, CA 94104",
+    "zip": "94104"
+   },
+   "operationalStatus": "Montgomery Street (Filings Only): OPEN Sansome Street: OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-santa-ana-immigration-court",
+  "xref": "court-santa-ana-immigration-court",
+  "kind": "immigration-court",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/santa-ana-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Santa Ana Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1241 East Dyer Road, Suite 200, Santa Ana, CA 92705",
+    "zip": "92705"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-seattle-immigration-court",
+  "xref": "court-seattle-immigration-court",
+  "kind": "immigration-court",
+  "state": "WA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/seattle-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Seattle Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "915 2nd Avenue, Suite 613, Seattle, WA 98174",
+    "zip": "98174"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-sterling-immigration-court",
+  "xref": "court-sterling-immigration-court",
+  "kind": "immigration-court",
+  "state": "VA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/sterling-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Sterling Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "21400 Ridgetop Circle, Suite 200, Sterling, VA 20166",
+    "zip": "20166"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-lumpkin-immigration-court",
+  "xref": "court-lumpkin-immigration-court",
+  "kind": "immigration-court",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lumpkin-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Stewart Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "146 CCA Road, PO Box 248, Lumpkin, GA 31815",
+    "zip": "31815"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-tacoma-immigration-court",
+  "xref": "court-tacoma-immigration-court",
+  "kind": "immigration-court",
+  "state": "WA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/tacoma-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Tacoma Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "1623 East J Street, Suite 3, Tacoma, WA 98421",
+    "zip": "98421"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-tucson-immigration-court",
+  "xref": "court-tucson-immigration-court",
+  "kind": "immigration-court",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/tucson-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Tucson Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "300 West Congress St., Suite 300, Tucson, AZ 85701",
+    "zip": "85701"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-ulster-immigration-court",
+  "xref": "court-ulster-immigration-court",
+  "kind": "immigration-court",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/ulster-immigration-court",
+  "fields": {
+   "name": [
+    {
+     "value": "Ulster Immigration Court",
+     "nameType": "official-eoir"
+    }
+   ],
+   "address": {
+    "full": "Ulster Correctional Facility, Berme Road, P.O. Box 800, Napanoch, NY 12458",
+    "zip": "12458"
+   },
+   "operationalStatus": "OPEN"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-adelanto-immigration-court-ADLNTCA",
+  "xref": "ADLNTCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/adelanto-immigration-court",
+  "fields": {
+   "immigrationCourt": "Adelanto Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-adelanto-immigration-court-ice-desert-view-annex",
+  "xref": "ice-desert-view-annex",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/adelanto-immigration-court",
+  "fields": {
+   "immigrationCourt": "Adelanto Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-atlanta-ted-turner-drive-ATLANGA",
+  "xref": "ATLANGA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/atlanta-ted-turner-drive",
+  "fields": {
+   "immigrationCourt": "Atlanta – Ted Turner Drive Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-atlanta-ted-turner-drive-ATLHOLD",
+  "xref": "ATLHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/atlanta-ted-turner-drive",
+  "fields": {
+   "immigrationCourt": "Atlanta – Ted Turner Drive Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-aurora-immigration-court-DENICDF",
+  "xref": "DENICDF",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/aurora-immigration-court",
+  "fields": {
+   "immigrationCourt": "Aurora Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-aurora-immigration-court-DENIICO",
+  "xref": "DENIICO",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/aurora-immigration-court",
+  "fields": {
+   "immigrationCourt": "Aurora Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-baltimore-immigration-court-USMMD",
+  "xref": "USMMD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/baltimore-immigration-court",
+  "fields": {
+   "immigrationCourt": "Baltimore Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-batavia-immigration-court-BTV",
+  "xref": "BTV",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/batavia-immigration-court",
+  "fields": {
+   "immigrationCourt": "Batavia Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-batavia-immigration-court-GENESNY",
+  "xref": "GENESNY",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/batavia-immigration-court",
+  "fields": {
+   "immigrationCourt": "Batavia Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-buffalo-immigration-court-BUFHOLD",
+  "xref": "BUFHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/buffalo-immigration-court",
+  "fields": {
+   "immigrationCourt": "Buffalo Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-buffalo-immigration-court-ERICONY",
+  "xref": "ERICONY",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/buffalo-immigration-court",
+  "fields": {
+   "immigrationCourt": "Buffalo Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-buffalo-immigration-court-EIRHONY",
+  "xref": "EIRHONY",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/buffalo-immigration-court",
+  "fields": {
+   "immigrationCourt": "Buffalo Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-conroe-immigration-court-MONTGTX",
+  "xref": "MONTGTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/conroe-immigration-court",
+  "fields": {
+   "immigrationCourt": "Conroe Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-conroe-immigration-court-MTGPCTX",
+  "xref": "MTGPCTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/conroe-immigration-court",
+  "fields": {
+   "immigrationCourt": "Conroe Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-conroe-immigration-court-JCRLYTX",
+  "xref": "JCRLYTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/conroe-immigration-court",
+  "fields": {
+   "immigrationCourt": "Conroe Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-denver-immigration-court-USMCO",
+  "xref": "USMCO",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/denver-immigration-court",
+  "fields": {
+   "immigrationCourt": "Denver Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-immigration-courts-PDNHOLD",
+  "xref": "PDNHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-immigration-courts",
+  "fields": {
+   "immigrationCourt": "El Paso Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-spc-0-BOEHOLD",
+  "xref": "BOEHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "immigrationCourt": "El Paso SPC Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-spc-0-ELPCOTX",
+  "xref": "ELPCOTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "immigrationCourt": "El Paso SPC Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-spc-0-ELPHOLD",
+  "xref": "ELPHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "immigrationCourt": "El Paso SPC Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-spc-0-EPCJUVI",
+  "xref": "EPCJUVI",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "immigrationCourt": "El Paso SPC Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-el-paso-spc-0-EPC",
+  "xref": "EPC",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/el-paso-spc-0",
+  "fields": {
+   "immigrationCourt": "El Paso SPC Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-elizabeth-immigration-court-ELZICDF",
+  "xref": "ELZICDF",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/elizabeth-immigration-court",
+  "fields": {
+   "immigrationCourt": "Elizabeth Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-eloy-immigration-court-EAZ",
+  "xref": "EAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/eloy-immigration-court",
+  "fields": {
+   "immigrationCourt": "Eloy Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-eloy-immigration-court-LPLCCAZ",
+  "xref": "LPLCCAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/eloy-immigration-court",
+  "fields": {
+   "immigrationCourt": "Eloy Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-eloy-immigration-court-LPAPSAZ",
+  "xref": "LPAPSAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/eloy-immigration-court",
+  "fields": {
+   "immigrationCourt": "Eloy Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-florence-immigration-court-CCADCAZ",
+  "xref": "CCADCAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/florence-immigration-court",
+  "fields": {
+   "immigrationCourt": "Florence Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-florence-immigration-court-CCAFLAZ",
+  "xref": "CCAFLAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/florence-immigration-court",
+  "fields": {
+   "immigrationCourt": "Florence Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-florence-immigration-court-FLO",
+  "xref": "FLO",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/florence-immigration-court",
+  "fields": {
+   "immigrationCourt": "Florence Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-florence-immigration-court-PINALAZ",
+  "xref": "PINALAZ",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/florence-immigration-court",
+  "fields": {
+   "immigrationCourt": "Florence Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-guaynabo-puerto-rico-immigration-court-SAJHOLD",
+  "xref": "SAJHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/guaynabo-puerto-rico-immigration-court",
+  "fields": {
+   "immigrationCourt": "Guaynabo (San Juan) Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-HLGHOLD",
+  "xref": "HLGHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-HMCHOTX",
+  "xref": "HMCHOTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-HSF",
+  "xref": "HSF",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-PLMBHTX",
+  "xref": "PLMBHTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-RGHOSTX",
+  "xref": "RGHOSTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-STHOSTX",
+  "xref": "STHOSTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-harlingen-immigration-court-VBHOSTX",
+  "xref": "VBHOSTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/harlingen-immigration-court",
+  "fields": {
+   "immigrationCourt": "Harlingen Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-hartford-immigration-court-HARHOLD",
+  "xref": "HARHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/hartford-immigration-court",
+  "fields": {
+   "immigrationCourt": "Hartford Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-indianapolis-immigration-court-MARIOIN",
+  "xref": "MARIOIN",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/indianapolis-immigration-court",
+  "fields": {
+   "immigrationCourt": "Indianapolis Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-laredo-immigration-court-LRDHOLD",
+  "xref": "LRDHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/laredo-immigration-court",
+  "fields": {
+   "immigrationCourt": "Laredo Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-laredo-immigration-court-LRDICDF",
+  "xref": "LRDICDF",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/laredo-immigration-court",
+  "fields": {
+   "immigrationCourt": "Laredo Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-lasalle-immigration-court-JENADLA",
+  "xref": "JENADLA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lasalle-immigration-court",
+  "fields": {
+   "immigrationCourt": "LaSalle Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-lasalle-immigration-court-ice-central-louisiana-ipc",
+  "xref": "ice-central-louisiana-ipc",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lasalle-immigration-court",
+  "fields": {
+   "immigrationCourt": "LaSalle Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-angeles-n-los-angeles-street-immigration-court-BWDGICA",
+  "xref": "BWDGICA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court",
+  "fields": {
+   "immigrationCourt": "Los Angeles – N. Los Angeles Street Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-angeles-n-los-angeles-street-immigration-court-LOSCJCA",
+  "xref": "LOSCJCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court",
+  "fields": {
+   "immigrationCourt": "Los Angeles – N. Los Angeles Street Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-angeles-n-los-angeles-street-immigration-court-BOPLOS",
+  "xref": "BOPLOS",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court",
+  "fields": {
+   "immigrationCourt": "Los Angeles – N. Los Angeles Street Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-angeles-n-los-angeles-street-immigration-court-TEMPLCA",
+  "xref": "TEMPLCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court",
+  "fields": {
+   "immigrationCourt": "Los Angeles – N. Los Angeles Street Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-memphis-immigration-court-SHELBTN",
+  "xref": "SHELBTN",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/memphis-immigration-court",
+  "fields": {
+   "immigrationCourt": "Memphis Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-memphis-immigration-court-USMWDTN",
+  "xref": "USMWDTN",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/memphis-immigration-court",
+  "fields": {
+   "immigrationCourt": "Memphis Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-miami-krome-immigration-court-KROHOLD",
+  "xref": "KROHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/miami-krome-immigration-court",
+  "fields": {
+   "immigrationCourt": "Miami Krome (Detained) Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-miami-krome-immigration-court-KRO",
+  "xref": "KRO",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/miami-krome-immigration-court",
+  "fields": {
+   "immigrationCourt": "Miami Krome (Detained) Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-new-york-broadway-immigration-court-BOPNYM",
+  "xref": "BOPNYM",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-broadway-immigration-court",
+  "fields": {
+   "immigrationCourt": "New York - Broadway Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-new-york-federal-plaza-immigration-court-NYCHOLD",
+  "xref": "NYCHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-federal-plaza-immigration-court",
+  "fields": {
+   "immigrationCourt": "New York - Federal Plaza Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-new-york-varick-immigration-court-VRK",
+  "xref": "VRK",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/new-york-varick-immigration-court",
+  "fields": {
+   "immigrationCourt": "New York - Varick Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-newark-immigration-court-NEWHOLD",
+  "xref": "NEWHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/newark-immigration-court",
+  "fields": {
+   "immigrationCourt": "Newark Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-oakdale-immigration-court-BOPOAK",
+  "xref": "BOPOAK",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/oakdale-immigration-court",
+  "fields": {
+   "immigrationCourt": "Oakdale Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-oakdale-immigration-court-OAK",
+  "xref": "OAK",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/oakdale-immigration-court",
+  "fields": {
+   "immigrationCourt": "Oakdale Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-oakdale-immigration-court-BOPOAD",
+  "xref": "BOPOAD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/oakdale-immigration-court",
+  "fields": {
+   "immigrationCourt": "Oakdale Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-oakdale-immigration-court-OAKHOLD",
+  "xref": "OAKHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/oakdale-immigration-court",
+  "fields": {
+   "immigrationCourt": "Oakdale Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-omaha-immigration-court-OMAHOLD",
+  "xref": "OMAHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/omaha-immigration-court",
+  "fields": {
+   "immigrationCourt": "Omaha Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otay-mesa-immigration-court-CCASDCA",
+  "xref": "CCASDCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otay Mesa Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otay-mesa-immigration-court-QLTYSCA",
+  "xref": "QLTYSCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otay Mesa Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otay-mesa-immigration-court-CBPCHLV",
+  "xref": "CBPCHLV",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otay Mesa Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otay-mesa-immigration-court-ice-orange-county-jail",
+  "xref": "ice-orange-county-jail",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otay Mesa Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otero-immigration-court-OTROPNM",
+  "xref": "OTROPNM",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otero-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otero Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otero-immigration-court-OTRPCNM",
+  "xref": "OTRPCNM",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otero-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otero Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-otero-immigration-court-ice-otay-mesa-detention-center",
+  "xref": "ice-otay-mesa-detention-center",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/otero-immigration-court",
+  "fields": {
+   "immigrationCourt": "Otero Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-pearsall-immigration-court-FRIOCTX",
+  "xref": "FRIOCTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/pearsall-immigration-court",
+  "fields": {
+   "immigrationCourt": "Pearsall Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-pearsall-immigration-court-STCDFTX",
+  "xref": "STCDFTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/pearsall-immigration-court",
+  "fields": {
+   "immigrationCourt": "Pearsall Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-pearsall-immigration-court-STDHOLD",
+  "xref": "STDHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/pearsall-immigration-court",
+  "fields": {
+   "immigrationCourt": "Pearsall Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-philadelphia-pa-HANMNPA",
+  "xref": "HANMNPA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/philadelphia-pa",
+  "fields": {
+   "immigrationCourt": "Philadelphia Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-fresnos-immigration-court-LSFHOLD",
+  "xref": "LSFHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "immigrationCourt": "Port Isabel Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-fresnos-immigration-court-PIC",
+  "xref": "PIC",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "immigrationCourt": "Port Isabel Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-fresnos-immigration-court-RGS",
+  "xref": "RGS",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "immigrationCourt": "Port Isabel Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-fresnos-immigration-court-CHCNLTX",
+  "xref": "CHCNLTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "immigrationCourt": "Port Isabel Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-los-fresnos-immigration-court-CHSLFTX",
+  "xref": "CHSLFTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court",
+  "fields": {
+   "immigrationCourt": "Port Isabel Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-portland-immigration-court-POOHOLD",
+  "xref": "POOHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/portland-immigration-court",
+  "fields": {
+   "immigrationCourt": "Portland Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-portland-immigration-court-USMOR",
+  "xref": "USMOR",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/portland-immigration-court",
+  "fields": {
+   "immigrationCourt": "Portland Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-sacramento-immigration-court-SACRACA",
+  "xref": "SACRACA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/sacramento-immigration-court",
+  "fields": {
+   "immigrationCourt": "Sacramento Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-sacramento-immigration-court-SACHOLD",
+  "xref": "SACHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/sacramento-immigration-court",
+  "fields": {
+   "immigrationCourt": "Sacramento Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-saipan-immigration-court-MPSIPAN",
+  "xref": "MPSIPAN",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/saipan-immigration-court",
+  "fields": {
+   "immigrationCourt": "Saipan Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-saipan-immigration-court-SAIHOLD",
+  "xref": "SAIHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/saipan-immigration-court",
+  "fields": {
+   "immigrationCourt": "Saipan Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-salt-lake-city-immigration-court-SLSLCUT",
+  "xref": "SLSLCUT",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/salt-lake-city-immigration-court",
+  "fields": {
+   "immigrationCourt": "Salt Lake City Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-salt-lake-city-immigration-court-SLOXBUT",
+  "xref": "SLOXBUT",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/salt-lake-city-immigration-court",
+  "fields": {
+   "immigrationCourt": "Salt Lake City Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-antonio-immigration-court-BEXARTX",
+  "xref": "BEXARTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-antonio-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Antonio Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-antonio-immigration-court-WCCBXTX",
+  "xref": "WCCBXTX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-antonio-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Antonio Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-antonio-immigration-court-WACLATX",
+  "xref": "WACLATX",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-antonio-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Antonio Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-diego-immigration-court-SNDHOLD",
+  "xref": "SNDHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-diego-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Diego Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-diego-immigration-court-BOPSDC",
+  "xref": "BOPSDC",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-diego-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Diego Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-san-diego-immigration-court-WCCSDCA",
+  "xref": "WCCSDCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/san-diego-immigration-court",
+  "fields": {
+   "immigrationCourt": "San Diego Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-santa-ana-immigration-court-OGCMCCA",
+  "xref": "OGCMCCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/santa-ana-immigration-court",
+  "fields": {
+   "immigrationCourt": "Santa Ana Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-santa-ana-immigration-court-RIVHOLD",
+  "xref": "RIVHOLD",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/santa-ana-immigration-court",
+  "fields": {
+   "immigrationCourt": "Santa Ana Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-santa-ana-immigration-court-WSTMCCA",
+  "xref": "WSTMCCA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/santa-ana-immigration-court",
+  "fields": {
+   "immigrationCourt": "Santa Ana Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-lumpkin-immigration-court-STWRTGA",
+  "xref": "STWRTGA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/lumpkin-immigration-court",
+  "fields": {
+   "immigrationCourt": "Stewart Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-tacoma-immigration-court-CSCNWWA",
+  "xref": "CSCNWWA",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/tacoma-immigration-court",
+  "fields": {
+   "immigrationCourt": "Tacoma Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-tacoma-immigration-court-ice-northeast-ohio-correctional-center",
+  "xref": "ice-northeast-ohio-correctional-center",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/tacoma-immigration-court",
+  "fields": {
+   "immigrationCourt": "Tacoma Immigration Court (co-located — same ZIP)"
+  }
+ },
+ {
+  "source": "eoir",
+  "sourceRecordId": "eoir-coloc-court-ulster-immigration-court-NYULSTC",
+  "xref": "NYULSTC",
+  "kind": "detention",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.justice.gov/eoir/ulster-immigration-court",
+  "fields": {
+   "immigrationCourt": "Ulster Immigration Court (co-located — same ZIP)"
+  }
+ }
+]

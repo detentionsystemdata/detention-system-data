@@ -1,0 +1,4484 @@
+{
+ "release": "2026.07.07",
+ "generatedAt": "2026-07-07T16:25:11.649Z",
+ "count": 73,
+ "records": [
+  {
+   "id": "court-adelanto-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Adelanto Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Adelanto Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06037",
+     "06071"
+    ],
+    "names": [
+     "San Bernardino County, CA",
+     "Los Angeles County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "Adelanto Detention Facility, 10250 Rancho Road, Suite 201A, Adelanto, CA 92301",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Adelanto Detention Facility, 10250 Rancho Road, Suite 201A, Adelanto, CA 92301",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/adelanto-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/adelanto-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-adelanto-immigration-court"
+   ]
+  },
+  {
+   "id": "court-annandale-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Annandale Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Annandale Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "51059"
+    ],
+    "names": [
+     "Fairfax County, VA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "VA"
+   ],
+   "fields": {
+    "address": {
+     "value": "7619 Little River Turnpike, Suite 400, Annandale, VA 22003",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "7619 Little River Turnpike, Suite 400, Annandale, VA 22003",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/annandale-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/annandale-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-annandale-immigration-court"
+   ]
+  },
+  {
+   "id": "court-atlanta-ted-turner-drive",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Atlanta – Ted Turner Drive Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Atlanta – Ted Turner Drive Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "13121"
+    ],
+    "names": [
+     "Fulton County, GA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "GA"
+   ],
+   "fields": {
+    "address": {
+     "value": "180 Ted Turner Drive, SW, Suite 241, Atlanta, GA 30303",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "180 Ted Turner Drive, SW, Suite 241, Atlanta, GA 30303",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/atlanta-ted-turner-drive"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed.",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed.",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/atlanta-ted-turner-drive"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-atlanta-ted-turner-drive"
+   ]
+  },
+  {
+   "id": "court-atlanta-w-peachtree-street",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Atlanta - W. Peachtree Street Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Atlanta - W. Peachtree Street Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "13121"
+    ],
+    "names": [
+     "Fulton County, GA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "GA"
+   ],
+   "fields": {
+    "address": {
+     "value": "401 W. Peachtree Street, Suite 2600, Atlanta, GA 30308",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "401 W. Peachtree Street, Suite 2600, Atlanta, GA 30308",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/atlanta-w-peachtree-street"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed.",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "CLOSED CLOSED - July 7, 15. Alternate fillings at Stewart . Internet-based hearings will proceed.",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/atlanta-w-peachtree-street"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-atlanta-w-peachtree-street"
+   ]
+  },
+  {
+   "id": "court-aurora-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Aurora Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Aurora Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "08001",
+     "08005",
+     "08031"
+    ],
+    "names": [
+     "Adams County, CO",
+     "Arapahoe County, CO",
+     "Denver County, CO"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CO"
+   ],
+   "fields": {
+    "address": {
+     "value": "3130 N. Oakland Street, Aurora, CO 80010",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "3130 N. Oakland Street, Aurora, CO 80010",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/aurora-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/aurora-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-aurora-immigration-court"
+   ]
+  },
+  {
+   "id": "court-baltimore-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Baltimore Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Baltimore Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "24510"
+    ],
+    "names": [
+     "Baltimore city, MD"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MD"
+   ],
+   "fields": {
+    "address": {
+     "value": "31 Hopkins Plaza, Room 440, Baltimore, MD 21201",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "31 Hopkins Plaza, Room 440, Baltimore, MD 21201",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/baltimore-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/baltimore-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-baltimore-immigration-court"
+   ]
+  },
+  {
+   "id": "court-batavia-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Batavia Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Batavia Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36037"
+    ],
+    "names": [
+     "Genesee County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "4250 Federal Drive, Room F108, Batavia, NY 14020",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "4250 Federal Drive, Room F108, Batavia, NY 14020",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/batavia-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/batavia-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-batavia-immigration-court"
+   ]
+  },
+  {
+   "id": "court-baton-rouge-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Baton Rouge Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Baton Rouge Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "22033"
+    ],
+    "names": [
+     "East Baton Rouge Parish, LA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "LA"
+   ],
+   "fields": {
+    "address": {
+     "value": "451 Florida Street, Suite 500, Baton Rouge, LA 70801",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "451 Florida Street, Suite 500, Baton Rouge, LA 70801",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/baton-rouge-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/baton-rouge-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-baton-rouge-immigration-court"
+   ]
+  },
+  {
+   "id": "court-boston-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Boston Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Boston Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "25025"
+    ],
+    "names": [
+     "Suffolk County, MA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MA"
+   ],
+   "fields": {
+    "address": {
+     "value": "15 New Sudbury Street, Room 320, Boston, MA 02203",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "15 New Sudbury Street, Room 320, Boston, MA 02203",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/boston-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/boston-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-boston-immigration-court"
+   ]
+  },
+  {
+   "id": "court-buffalo-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Buffalo Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Buffalo Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36029"
+    ],
+    "names": [
+     "Erie County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "130 Delaware Avenue, Suite 300, Buffalo, NY 14202",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "130 Delaware Avenue, Suite 300, Buffalo, NY 14202",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/buffalo-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/buffalo-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-buffalo-immigration-court"
+   ]
+  },
+  {
+   "id": "court-charlotte-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Charlotte Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Charlotte Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "37119"
+    ],
+    "names": [
+     "Mecklenburg County, NC"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NC"
+   ],
+   "fields": {
+    "address": {
+     "value": "5701 Executive Center Drive, Suite 400, Charlotte, NC 28212",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "5701 Executive Center Drive, Suite 400, Charlotte, NC 28212",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/charlotte-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/charlotte-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-charlotte-immigration-court"
+   ]
+  },
+  {
+   "id": "court-chelmsford-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Chelmsford Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Chelmsford Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "25017"
+    ],
+    "names": [
+     "Middlesex County, MA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MA"
+   ],
+   "fields": {
+    "address": {
+     "value": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/chelmsford-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/chelmsford-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-chelmsford-immigration-court"
+   ]
+  },
+  {
+   "id": "court-chicago-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Chicago Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Chicago Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "17031"
+    ],
+    "names": [
+     "Cook County, IL"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "IL"
+   ],
+   "fields": {
+    "address": {
+     "value": "55 E. Monroe Street*, Suite 1500, Chicago, IL 60603",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "55 E. Monroe Street*, Suite 1500, Chicago, IL 60603",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/chicago-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "Monroe Street: OPEN Clark Street: OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Monroe Street: OPEN Clark Street: OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/chicago-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-chicago-immigration-court"
+   ]
+  },
+  {
+   "id": "court-cleveland-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Cleveland Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Cleveland Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "39035"
+    ],
+    "names": [
+     "Cuyahoga County, OH"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "OH"
+   ],
+   "fields": {
+    "address": {
+     "value": "801 W. Superior Avenue, Suite 13 - 100, Cleveland, OH 44113",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "801 W. Superior Avenue, Suite 13 - 100, Cleveland, OH 44113",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/cleveland-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/cleveland-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-cleveland-immigration-court"
+   ]
+  },
+  {
+   "id": "court-conroe-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Conroe Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Conroe Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48339"
+    ],
+    "names": [
+     "Montgomery County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "806 Hilbig Road, Conroe, TX 77301",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "806 Hilbig Road, Conroe, TX 77301",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/conroe-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/conroe-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-conroe-immigration-court"
+   ]
+  },
+  {
+   "id": "court-dallas-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Dallas Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Dallas Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48113"
+    ],
+    "names": [
+     "Dallas County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "1100 Commerce Street, Suite 1060, Dallas, TX 75242",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1100 Commerce Street, Suite 1060, Dallas, TX 75242",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/dallas-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/dallas-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-dallas-immigration-court"
+   ]
+  },
+  {
+   "id": "court-denver-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Denver Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Denver Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "08031"
+    ],
+    "names": [
+     "Denver County, CO"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CO"
+   ],
+   "fields": {
+    "address": {
+     "value": "1961 Stout Street, Suite 3101, Denver, CO 80294",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1961 Stout Street, Suite 3101, Denver, CO 80294",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/denver-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/denver-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-denver-immigration-court"
+   ]
+  },
+  {
+   "id": "court-detroit-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Detroit Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Detroit Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "26163"
+    ],
+    "names": [
+     "Wayne County, MI"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MI"
+   ],
+   "fields": {
+    "address": {
+     "value": "477 Michigan Avenue, Suite 440, Detroit, MI 48226",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "477 Michigan Avenue, Suite 440, Detroit, MI 48226",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/detroit-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/detroit-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-detroit-immigration-court"
+   ]
+  },
+  {
+   "id": "court-el-paso-immigration-courts",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "El Paso Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "El Paso Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48141"
+    ],
+    "names": [
+     "El Paso County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-immigration-courts"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-immigration-courts"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-el-paso-immigration-courts"
+   ]
+  },
+  {
+   "id": "court-el-paso-spc-0",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "El Paso SPC Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "El Paso SPC Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48141"
+    ],
+    "names": [
+     "El Paso County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "8915 Montana Avenue, Suite 100, El Paso, TX 79925",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "8915 Montana Avenue, Suite 100, El Paso, TX 79925",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-spc-0"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-spc-0"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-el-paso-spc-0"
+   ]
+  },
+  {
+   "id": "court-elizabeth-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Elizabeth Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Elizabeth Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "34013",
+     "34039"
+    ],
+    "names": [
+     "Union County, NJ",
+     "Essex County, NJ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NJ"
+   ],
+   "fields": {
+    "address": {
+     "value": "625 Evans Street, Room 148A, Elizabeth, NJ 07201",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "625 Evans Street, Room 148A, Elizabeth, NJ 07201",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/elizabeth-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/elizabeth-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-elizabeth-immigration-court"
+   ]
+  },
+  {
+   "id": "court-eloy-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Eloy Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Eloy Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "04021"
+    ],
+    "names": [
+     "Pinal County, AZ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "AZ"
+   ],
+   "fields": {
+    "address": {
+     "value": "1705 E. Hanna Road, Suite 366, Eloy, AZ 85131",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1705 E. Hanna Road, Suite 366, Eloy, AZ 85131",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/eloy-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/eloy-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-eloy-immigration-court"
+   ]
+  },
+  {
+   "id": "court-florence-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Florence Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Florence Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "04021"
+    ],
+    "names": [
+     "Pinal County, AZ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "AZ"
+   ],
+   "fields": {
+    "address": {
+     "value": "3260 N. Pinal Parkway Avenue, Florence, AZ 85132",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "3260 N. Pinal Parkway Avenue, Florence, AZ 85132",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/florence-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/florence-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-florence-immigration-court"
+   ]
+  },
+  {
+   "id": "court-fort-snelling-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Fort Snelling Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Fort Snelling Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "27053"
+    ],
+    "names": [
+     "Hennepin County, MN"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MN"
+   ],
+   "fields": {
+    "address": {
+     "value": "1 Federal Drive, Suite 1850, Fort Snelling, MN 55111",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1 Federal Drive, Suite 1850, Fort Snelling, MN 55111",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/fort-snelling-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/fort-snelling-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-fort-snelling-immigration-court"
+   ]
+  },
+  {
+   "id": "court-guaynabo-puerto-rico-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Guaynabo (San Juan) Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Guaynabo (San Juan) Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "72061",
+     "72127"
+    ],
+    "names": [
+     "Guaynabo Municipio, PR",
+     "San Juan Municipio, PR"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "PR"
+   ],
+   "fields": {
+    "address": {
+     "value": "#7 Tabonuco Street, Room 401, Guaynabo, PR 00968",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "#7 Tabonuco Street, Room 401, Guaynabo, PR 00968",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/guaynabo-puerto-rico-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/guaynabo-puerto-rico-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-guaynabo-puerto-rico-immigration-court"
+   ]
+  },
+  {
+   "id": "court-harlingen-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Harlingen Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Harlingen Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48061",
+     "48489"
+    ],
+    "names": [
+     "Cameron County, TX",
+     "Willacy County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/harlingen-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/harlingen-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-harlingen-immigration-court"
+   ]
+  },
+  {
+   "id": "court-hartford-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Hartford Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Hartford Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "09110"
+    ],
+    "names": [
+     "09110"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CT"
+   ],
+   "fields": {
+    "address": {
+     "value": "450 Main Street, Room 628, Hartford, CT 06103",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "450 Main Street, Room 628, Hartford, CT 06103",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/hartford-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/hartford-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-hartford-immigration-court"
+   ]
+  },
+  {
+   "id": "court-honolulu-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Honolulu Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Honolulu Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "15003"
+    ],
+    "names": [
+     "Honolulu County, HI"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "HI"
+   ],
+   "fields": {
+    "address": {
+     "value": "300 Ala Moana Boulevard, Room 8-112, Honolulu, HI 96850",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "300 Ala Moana Boulevard, Room 8-112, Honolulu, HI 96850",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/honolulu-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/honolulu-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-honolulu-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-greenspoint-park-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston – Greenspoint Park Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston – Greenspoint Park Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-greenspoint-park-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-greenspoint-park-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-greenspoint-park-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-jefferson-street-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston - Jefferson Street Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston - Jefferson Street Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "500 Jefferson Street, Suite 300, Houston, TX 77002",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "500 Jefferson Street, Suite 300, Houston, TX 77002",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-jefferson-street-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-jefferson-street-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-jefferson-street-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-south-gessner-road-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston – S. Gessner Road Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston – S. Gessner Road Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "8701 S. Gessner Road, 10th Floor, Houston, TX 77074",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "8701 S. Gessner Road, 10th Floor, Houston, TX 77074",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-south-gessner-road-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-south-gessner-road-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-south-gessner-road-immigration-court"
+   ]
+  },
+  {
+   "id": "court-hyattsville-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Hyattsville Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Hyattsville Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "24033"
+    ],
+    "names": [
+     "Prince George's County, MD"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MD"
+   ],
+   "fields": {
+    "address": {
+     "value": "3311 Toledo Road, Suite 105, Hyattsville, MD 20782",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "3311 Toledo Road, Suite 105, Hyattsville, MD 20782",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/hyattsville-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/hyattsville-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-hyattsville-immigration-court"
+   ]
+  },
+  {
+   "id": "court-imperial-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Imperial Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Imperial Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06025"
+    ],
+    "names": [
+     "Imperial County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "2409 La Brucherie Road, Imperial, CA 92251",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "2409 La Brucherie Road, Imperial, CA 92251",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/imperial-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/imperial-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-imperial-immigration-court"
+   ]
+  },
+  {
+   "id": "court-indianapolis-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Indianapolis Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Indianapolis Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "18097"
+    ],
+    "names": [
+     "Marion County, IN"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "IN"
+   ],
+   "fields": {
+    "address": {
+     "value": "575 N. Pennsylvania Street, Suite 617, Indianapolis, IN 46204",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "575 N. Pennsylvania Street, Suite 617, Indianapolis, IN 46204",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/indianapolis-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/indianapolis-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-indianapolis-immigration-court"
+   ]
+  },
+  {
+   "id": "court-kansas-city-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Kansas City Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Kansas City Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "29095"
+    ],
+    "names": [
+     "Jackson County, MO"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MO"
+   ],
+   "fields": {
+    "address": {
+     "value": "2345 Grand Boulevard, Suite 525, Kansas City, MO 64108",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "2345 Grand Boulevard, Suite 525, Kansas City, MO 64108",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/kansas-city-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/kansas-city-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-kansas-city-immigration-court"
+   ]
+  },
+  {
+   "id": "court-laredo-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Laredo Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Laredo Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48479"
+    ],
+    "names": [
+     "Webb County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "1406 Jacaman Road, Suite B, Laredo, TX 78041",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1406 Jacaman Road, Suite B, Laredo, TX 78041",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/laredo-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/laredo-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-laredo-immigration-court"
+   ]
+  },
+  {
+   "id": "court-las-vegas-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Las Vegas Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Las Vegas Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "32003"
+    ],
+    "names": [
+     "Clark County, NV"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NV"
+   ],
+   "fields": {
+    "address": {
+     "value": "110 North City Parkway, Suite 400, Las Vegas, NV 89106",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "110 North City Parkway, Suite 400, Las Vegas, NV 89106",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/las-vegas-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/las-vegas-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-las-vegas-immigration-court"
+   ]
+  },
+  {
+   "id": "court-lasalle-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "LaSalle Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "LaSalle Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "22059"
+    ],
+    "names": [
+     "LaSalle Parish, LA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "LA"
+   ],
+   "fields": {
+    "address": {
+     "value": "830 Pine Hill Road, P.O. Box 2179, Jena, LA 71342",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "830 Pine Hill Road, P.O. Box 2179, Jena, LA 71342",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lasalle-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lasalle-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-lasalle-immigration-court"
+   ]
+  },
+  {
+   "id": "court-los-angeles-n-los-angeles-street-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Los Angeles – N. Los Angeles Street Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Los Angeles – N. Los Angeles Street Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06037"
+    ],
+    "names": [
+     "Los Angeles County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "300 North Los Angeles Street, Room 4330, Los Angeles, CA 90012",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "300 North Los Angeles Street, Room 4330, Los Angeles, CA 90012",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-n-los-angeles-street-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-los-angeles-n-los-angeles-street-immigration-court"
+   ]
+  },
+  {
+   "id": "court-los-angeles-van-nuys-boulevard-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Los Angeles - Van Nuys Boulevard Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Los Angeles - Van Nuys Boulevard Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06037"
+    ],
+    "names": [
+     "Los Angeles County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "6230 Van Nuys Boulevard, 3rd Floor, Suite 300, Van Nuys, CA 91401",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "6230 Van Nuys Boulevard, 3rd Floor, Suite 300, Van Nuys, CA 91401",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-van-nuys-boulevard-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-van-nuys-boulevard-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-los-angeles-van-nuys-boulevard-immigration-court"
+   ]
+  },
+  {
+   "id": "court-los-angeles-west-los-angeles-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Los Angeles – West Los Angeles Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Los Angeles – West Los Angeles Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06037"
+    ],
+    "names": [
+     "Los Angeles County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "5245 Pacific Concourse Drive, Los Angeles, CA 90045",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "5245 Pacific Concourse Drive, Los Angeles, CA 90045",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-west-los-angeles-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-angeles-west-los-angeles-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-los-angeles-west-los-angeles-immigration-court"
+   ]
+  },
+  {
+   "id": "court-los-fresnos-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Port Isabel Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Port Isabel Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48061"
+    ],
+    "names": [
+     "Cameron County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-los-fresnos-immigration-court"
+   ]
+  },
+  {
+   "id": "court-lowell-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Chelmsford Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Chelmsford Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "25017"
+    ],
+    "names": [
+     "Middlesex County, MA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MA"
+   ],
+   "fields": {
+    "address": {
+     "value": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "150 Apollo Drive, Suite 100, Chelmsford, MA 01824",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lowell-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lowell-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-lowell-immigration-court"
+   ]
+  },
+  {
+   "id": "court-lumpkin-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Stewart Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Stewart Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "13239",
+     "13259"
+    ],
+    "names": [
+     "Stewart County, GA",
+     "Quitman County, GA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "GA"
+   ],
+   "fields": {
+    "address": {
+     "value": "146 CCA Road, PO Box 248, Lumpkin, GA 31815",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "146 CCA Road, PO Box 248, Lumpkin, GA 31815",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lumpkin-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/lumpkin-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-lumpkin-immigration-court"
+   ]
+  },
+  {
+   "id": "court-memphis-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Memphis Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Memphis Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "47157"
+    ],
+    "names": [
+     "Shelby County, TN"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TN"
+   ],
+   "fields": {
+    "address": {
+     "value": "Brinkley Plaza - 80 Monroe Avenue, Suite 501, Memphis, TN 38103",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Brinkley Plaza - 80 Monroe Avenue, Suite 501, Memphis, TN 38103",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/memphis-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN Louisville Hearing Location: OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN Louisville Hearing Location: OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/memphis-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-memphis-immigration-court"
+   ]
+  },
+  {
+   "id": "court-miami-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Miami Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Miami Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "12086"
+    ],
+    "names": [
+     "Miami-Dade County, FL"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "FL"
+   ],
+   "fields": {
+    "address": {
+     "value": "One Riverview Square, 333 S. Miami Avenue, Suite 700, Miami, FL 33130",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "One Riverview Square, 333 S. Miami Avenue, Suite 700, Miami, FL 33130",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/miami-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/miami-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-miami-immigration-court"
+   ]
+  },
+  {
+   "id": "court-miami-krome-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Miami Krome (Detained) Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Miami Krome (Detained) Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "12086"
+    ],
+    "names": [
+     "Miami-Dade County, FL"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "FL"
+   ],
+   "fields": {
+    "address": {
+     "value": "Krome North Processing Center, 18201 SW 12th Street, Miami, FL 33194",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Krome North Processing Center, 18201 SW 12th Street, Miami, FL 33194",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/miami-krome-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/miami-krome-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-miami-krome-immigration-court"
+   ]
+  },
+  {
+   "id": "court-new-orleans-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "New Orleans Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "New Orleans Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "22071"
+    ],
+    "names": [
+     "Orleans Parish, LA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "LA"
+   ],
+   "fields": {
+    "address": {
+     "value": "One Canal Place, 365 Canal Street, Suite 500, New Orleans, LA 70130",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "One Canal Place, 365 Canal Street, Suite 500, New Orleans, LA 70130",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-orleans-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-orleans-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-new-orleans-immigration-court"
+   ]
+  },
+  {
+   "id": "court-new-york-broadway-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "New York - Broadway Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "New York - Broadway Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36061"
+    ],
+    "names": [
+     "New York County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "290 Broadway, Suite 2900, Ted Weiss Federal Building, New York, NY 10007",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "290 Broadway, Suite 2900, Ted Weiss Federal Building, New York, NY 10007",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-broadway-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-broadway-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-new-york-broadway-immigration-court"
+   ]
+  },
+  {
+   "id": "court-new-york-federal-plaza-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "New York - Federal Plaza Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "New York - Federal Plaza Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36061"
+    ],
+    "names": [
+     "New York County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "26 Federal Plaza, 12th Floor, Room 1237, New York, NY 10278",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "26 Federal Plaza, 12th Floor, Room 1237, New York, NY 10278",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-federal-plaza-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-federal-plaza-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-new-york-federal-plaza-immigration-court"
+   ]
+  },
+  {
+   "id": "court-new-york-varick-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "New York - Varick Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "New York - Varick Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36061"
+    ],
+    "names": [
+     "New York County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "201 Varick Street, 5th Floor, Room 507, New York, NY 10014",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "201 Varick Street, 5th Floor, Room 507, New York, NY 10014",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-varick-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/new-york-varick-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-new-york-varick-immigration-court"
+   ]
+  },
+  {
+   "id": "court-newark-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Newark Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Newark Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "34013"
+    ],
+    "names": [
+     "Essex County, NJ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NJ"
+   ],
+   "fields": {
+    "address": {
+     "value": "970 Broad Street, Room 1200, Newark, NJ 07102",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "970 Broad Street, Room 1200, Newark, NJ 07102",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/newark-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/newark-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-newark-immigration-court"
+   ]
+  },
+  {
+   "id": "court-oakdale-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Oakdale Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Oakdale Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "22003",
+     "22039",
+     "22079"
+    ],
+    "names": [
+     "Allen Parish, LA",
+     "Rapides Parish, LA",
+     "Evangeline Parish, LA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "LA"
+   ],
+   "fields": {
+    "address": {
+     "value": "1900 E. Whatley Road, Oakdale, LA 71463",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1900 E. Whatley Road, Oakdale, LA 71463",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/oakdale-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/oakdale-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-oakdale-immigration-court"
+   ]
+  },
+  {
+   "id": "court-omaha-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Omaha Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Omaha Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "31055"
+    ],
+    "names": [
+     "Douglas County, NE"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NE"
+   ],
+   "fields": {
+    "address": {
+     "value": "1717 Avenue H, Suite 100, Omaha, NE 68110",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1717 Avenue H, Suite 100, Omaha, NE 68110",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/omaha-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/omaha-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-omaha-immigration-court"
+   ]
+  },
+  {
+   "id": "court-orlando-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Orlando Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Orlando Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "12095"
+    ],
+    "names": [
+     "Orange County, FL"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "FL"
+   ],
+   "fields": {
+    "address": {
+     "value": "500 N. Orange Avenue, Suite 1100, Orlando, FL 32801",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "500 N. Orange Avenue, Suite 1100, Orlando, FL 32801",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/orlando-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/orlando-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-orlando-immigration-court"
+   ]
+  },
+  {
+   "id": "court-otay-mesa-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Otay Mesa Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Otay Mesa Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06073"
+    ],
+    "names": [
+     "San Diego County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "7488 Calzada de la Fuente, San Diego, CA 92154",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "7488 Calzada de la Fuente, San Diego, CA 92154",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/otay-mesa-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-otay-mesa-immigration-court"
+   ]
+  },
+  {
+   "id": "court-otero-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Otero Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Otero Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "35013",
+     "35035"
+    ],
+    "names": [
+     "Otero County, NM",
+     "Doña Ana County, NM"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NM"
+   ],
+   "fields": {
+    "address": {
+     "value": "26 McGregor Range Road, Door #1, Chaparral, NM 88081",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "26 McGregor Range Road, Door #1, Chaparral, NM 88081",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/otero-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/otero-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-otero-immigration-court"
+   ]
+  },
+  {
+   "id": "court-pearsall-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Pearsall Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Pearsall Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48163",
+     "48507"
+    ],
+    "names": [
+     "Frio County, TX",
+     "Zavala County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "566 Veterans Drive, Pearsall, TX 78061",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "566 Veterans Drive, Pearsall, TX 78061",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/pearsall-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/pearsall-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-pearsall-immigration-court"
+   ]
+  },
+  {
+   "id": "court-philadelphia-pa",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Philadelphia Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Philadelphia Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "42101"
+    ],
+    "names": [
+     "Philadelphia County, PA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "PA"
+   ],
+   "fields": {
+    "address": {
+     "value": "900 Market Street, Suite 504, Philadelphia, PA 19107",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "900 Market Street, Suite 504, Philadelphia, PA 19107",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/philadelphia-pa"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/philadelphia-pa"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-philadelphia-pa"
+   ]
+  },
+  {
+   "id": "court-phoenix-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Phoenix Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Phoenix Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "04013"
+    ],
+    "names": [
+     "Maricopa County, AZ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "AZ"
+   ],
+   "fields": {
+    "address": {
+     "value": "250 N. Seventh Avenue, Suite 300, Phoenix, AZ 85007",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "250 N. Seventh Avenue, Suite 300, Phoenix, AZ 85007",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/phoenix-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/phoenix-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-phoenix-immigration-court"
+   ]
+  },
+  {
+   "id": "court-portland-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Portland Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Portland Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "41051"
+    ],
+    "names": [
+     "Multnomah County, OR"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "OR"
+   ],
+   "fields": {
+    "address": {
+     "value": "1220 SW 3rd Avenue, Suite 500, Portland, OR 97204",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1220 SW 3rd Avenue, Suite 500, Portland, OR 97204",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/portland-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/portland-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-portland-immigration-court"
+   ]
+  },
+  {
+   "id": "court-sacramento-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Sacramento Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Sacramento Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06067"
+    ],
+    "names": [
+     "Sacramento County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "John Moss Federal Building, 650 Capitol Mall, Suite 4-200, Sacramento, CA 95814",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "John Moss Federal Building, 650 Capitol Mall, Suite 4-200, Sacramento, CA 95814",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/sacramento-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/sacramento-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-sacramento-immigration-court"
+   ]
+  },
+  {
+   "id": "court-saipan-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Saipan Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Saipan Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "69110"
+    ],
+    "names": [
+     "Saipan Municipality, MP"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "MP"
+   ],
+   "fields": {
+    "address": {
+     "value": "Marina Heights II Building, Suite 301, Saipan, MP 96950",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Marina Heights II Building, Suite 301, Saipan, MP 96950",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/saipan-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/saipan-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-saipan-immigration-court"
+   ]
+  },
+  {
+   "id": "court-salt-lake-city-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Salt Lake City Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Salt Lake City Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "49035"
+    ],
+    "names": [
+     "Salt Lake County, UT"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "UT"
+   ],
+   "fields": {
+    "address": {
+     "value": "2975 South Decker Lake Drive, Suite 200, West Valley City, UT 84119",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "2975 South Decker Lake Drive, Suite 200, West Valley City, UT 84119",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/salt-lake-city-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/salt-lake-city-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-salt-lake-city-immigration-court"
+   ]
+  },
+  {
+   "id": "court-san-antonio-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "San Antonio Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "San Antonio Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48029"
+    ],
+    "names": [
+     "Bexar County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "800 Dolorosa Street, Suite 300, San Antonio, TX 78207",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "800 Dolorosa Street, Suite 300, San Antonio, TX 78207",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-antonio-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-antonio-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-san-antonio-immigration-court"
+   ]
+  },
+  {
+   "id": "court-san-diego-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "San Diego Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "San Diego Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06073"
+    ],
+    "names": [
+     "San Diego County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "880 Front Street, Suite 4240, San Diego, CA 92101",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "880 Front Street, Suite 4240, San Diego, CA 92101",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-diego-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-diego-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-san-diego-immigration-court"
+   ]
+  },
+  {
+   "id": "court-san-francisco-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "San Francisco Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "San Francisco Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06075"
+    ],
+    "names": [
+     "San Francisco County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "100 Montgomery Street, Suite 800, San Francisco, CA 94104",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "100 Montgomery Street, Suite 800, San Francisco, CA 94104",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-francisco-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "Montgomery Street (Filings Only): OPEN Sansome Street: OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Montgomery Street (Filings Only): OPEN Sansome Street: OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-francisco-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-san-francisco-immigration-court"
+   ]
+  },
+  {
+   "id": "court-santa-ana-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Santa Ana Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Santa Ana Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "06059"
+    ],
+    "names": [
+     "Orange County, CA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "CA"
+   ],
+   "fields": {
+    "address": {
+     "value": "1241 East Dyer Road, Suite 200, Santa Ana, CA 92705",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1241 East Dyer Road, Suite 200, Santa Ana, CA 92705",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/santa-ana-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/santa-ana-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-santa-ana-immigration-court"
+   ]
+  },
+  {
+   "id": "court-seattle-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Seattle Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Seattle Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "53033"
+    ],
+    "names": [
+     "King County, WA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "WA"
+   ],
+   "fields": {
+    "address": {
+     "value": "915 2nd Avenue, Suite 613, Seattle, WA 98174",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "915 2nd Avenue, Suite 613, Seattle, WA 98174",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/seattle-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/seattle-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-seattle-immigration-court"
+   ]
+  },
+  {
+   "id": "court-sterling-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Sterling Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Sterling Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "51107"
+    ],
+    "names": [
+     "Loudoun County, VA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "VA"
+   ],
+   "fields": {
+    "address": {
+     "value": "21400 Ridgetop Circle, Suite 200, Sterling, VA 20166",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "21400 Ridgetop Circle, Suite 200, Sterling, VA 20166",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/sterling-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/sterling-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-sterling-immigration-court"
+   ]
+  },
+  {
+   "id": "court-tacoma-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Tacoma Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Tacoma Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "53053"
+    ],
+    "names": [
+     "Pierce County, WA"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "WA"
+   ],
+   "fields": {
+    "address": {
+     "value": "1623 East J Street, Suite 3, Tacoma, WA 98421",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1623 East J Street, Suite 3, Tacoma, WA 98421",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/tacoma-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/tacoma-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-tacoma-immigration-court"
+   ]
+  },
+  {
+   "id": "court-tucson-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Tucson Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Tucson Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "04019"
+    ],
+    "names": [
+     "Pima County, AZ"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "AZ"
+   ],
+   "fields": {
+    "address": {
+     "value": "300 West Congress St., Suite 300, Tucson, AZ 85701",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "300 West Congress St., Suite 300, Tucson, AZ 85701",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/tucson-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/tucson-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-tucson-immigration-court"
+   ]
+  },
+  {
+   "id": "court-ulster-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Ulster Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Ulster Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "36105",
+     "36111"
+    ],
+    "names": [
+     "Ulster County, NY",
+     "Sullivan County, NY"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "NY"
+   ],
+   "fields": {
+    "address": {
+     "value": "Ulster Correctional Facility, Berme Road, P.O. Box 800, Napanoch, NY 12458",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Ulster Correctional Facility, Berme Road, P.O. Box 800, Napanoch, NY 12458",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/ulster-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/ulster-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-ulster-immigration-court"
+   ]
+  }
+ ]
+}

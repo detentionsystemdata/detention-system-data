@@ -1,0 +1,7 @@
+node_modules/
+_data/
+.DS_Store
+.env.local
+CLAUDE.md
+_internal/
+geo-data

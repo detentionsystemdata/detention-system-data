@@ -1,0 +1,3623 @@
+[
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-adams-county-detention-center",
+  "xref": "ADAMSMS",
+  "kind": "detention",
+  "state": "MS",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/adams-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Adams County Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "20 Hobo Forks Road, Natchez, MS 39120",
+    "zip": "39120"
+   },
+   "phone": "(601) 304-3003",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-adelanto-ice-processing-center",
+  "xref": "ADLNTCA",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/adelanto-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Adelanto ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road, Adelanto, CA 92301",
+    "zip": "92301"
+   },
+   "phone": "(760) 561-6100",
+   "fieldOffice": "LOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-alamance-county-detention-center",
+  "xref": "ALAMCNC",
+  "kind": "detention",
+  "state": "NC",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/alamance-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Alamance County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "109 South Maple Street, Graham, NC 27253",
+    "zip": "27253"
+   },
+   "phone": "(336) 570-6317",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-allen-parish-public-safety-complex",
+  "xref": "APPSCLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/allen-parish-public-safety-complex",
+  "fields": {
+   "name": [
+    {
+     "value": "Allen Parish Public Safety Complex",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "7340 Highway 26 W, Oberlin, LA 70655",
+    "zip": "70655"
+   },
+   "phone": "(337) 639-4353",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-anchorage-correctional-complex",
+  "xref": "ANCHOAK",
+  "kind": "detention",
+  "state": "AK",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/anchorage-correctional-complex",
+  "fields": {
+   "name": [
+    {
+     "value": "Anchorage Correctional Complex",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1400 E Fourth Ave, Anchorage, AK 99501",
+    "zip": "99501"
+   },
+   "phone": "(907) 269-4100",
+   "fieldOffice": "SEA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-baker-county-facility",
+  "xref": "BAKERFL",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/baker-county-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Baker County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1 Sheriff&#039;s Office Drive, MacClenny, FL 32063",
+    "zip": "32063"
+   },
+   "phone": "(904) 288-4600",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-bluebonnet-detention-facility",
+  "xref": "BLBNATX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/bluebonnet-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Bluebonnet Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "400 2nd Street, Anson, TX 79501",
+    "zip": "79501"
+   },
+   "phone": "(325) 823-8031",
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-boone-county-jail",
+  "xref": "BOONEKY",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/boone-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Boone County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3020 Conrad Lane, Burlington, KY 41005",
+    "zip": "41005"
+   },
+   "phone": "(859) 334-2143",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-broome-county-correctional-facility",
+  "xref": "BROMMNY",
+  "kind": "detention",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/broome-county-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Broome County Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "155 Lt. VanWinkle Drive, Binghamton, NY 13905",
+    "zip": "13905"
+   },
+   "phone": "(607) 778-6018",
+   "fieldOffice": "BUF"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-broward-transitional-center",
+  "xref": "WCCPBFL",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/broward-transitional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Broward Transitional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3900 N. Powerline Road, Pompano Beach, FL 33073",
+    "zip": "33073"
+   },
+   "phone": "(954) 973-4485",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-buffalo-batavia-service-processing-center",
+  "xref": "BTV",
+  "kind": "detention",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/buffalo-batavia-service-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Buffalo (Batavia) Service Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "4250 Federal Drive, Batavia, NY 14020",
+    "zip": "14020"
+   },
+   "phone": "(585) 344-6500",
+   "fieldOffice": "BUF"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-burleigh-county-detention-center",
+  "xref": "ice-burleigh-county-detention-center",
+  "kind": "detention",
+  "state": "ND",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/burleigh-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Burleigh County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "4000 Apple Creek Road, Bismarck, ND 58504",
+    "zip": "58504"
+   },
+   "phone": "(701) 354-3292",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-butler-county-sheriffs-office",
+  "xref": "BUTLEOH",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/butler-county-sheriffs-office",
+  "fields": {
+   "name": [
+    {
+     "value": "Butler County Sheriff’s Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "705 Hanover Street, Hamilton, OH 45011",
+    "zip": "45011"
+   },
+   "phone": "(513) 785-1106",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-calhoun-county-correctional-center",
+  "xref": "CALHOMI",
+  "kind": "detention",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/calhoun-county-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Calhoun County Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "185 E. Michigan Street, Battle Creek, MI 49014",
+    "zip": "49014"
+   },
+   "phone": "(313) 771-6601",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-california-city-detention-facility",
+  "xref": "CACTYCA",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/california-city-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "California City Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "22844 Virginia Boulevard, California City, CA 93505",
+    "zip": "93505"
+   },
+   "phone": "(760) 491-8104",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-campbell-county-detention-center",
+  "xref": "ice-campbell-county-detention-center",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/campbell-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Campbell County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "601 Central Avenue, Newport, KY 41071",
+    "zip": "41071"
+   },
+   "phone": "(859) 431-4611",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-caroline-detention-facility",
+  "xref": "CARDFVA",
+  "kind": "detention",
+  "state": "VA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/caroline-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Caroline Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "11093 SW Lewis Memorial Dr, Bowling Green, VA 22427",
+    "zip": "22427"
+   },
+   "phone": "(804) 633-0043",
+   "fieldOffice": "WAS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-florence-correctional-center",
+  "xref": "CCADCAZ",
+  "kind": "detention",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/florence-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Central Arizona Florence Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1100 Bowling Road, Florence, AZ 85132",
+    "zip": "85132"
+   },
+   "phone": "(520) 868-9095",
+   "fieldOffice": "PHO"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-central-louisiana-ipc",
+  "xref": "ice-central-louisiana-ipc",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/central-louisiana-ipc",
+  "fields": {
+   "name": [
+    {
+     "value": "Central Louisiana ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "830 Pine Hill Road, Jena, LA 71342",
+    "zip": "71342"
+   },
+   "phone": "(318) 992-1600",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-central-valley-annex",
+  "xref": "ice-central-valley-annex",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/central-valley-annex",
+  "fields": {
+   "name": [
+    {
+     "value": "Central Valley Annex",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "254 Taylor Avenue, McFarland, CA 93250",
+    "zip": "93250"
+   },
+   "phone": "(661) 792-3492",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-chase-county-jail",
+  "xref": "CHASEKS",
+  "kind": "detention",
+  "state": "KS",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/chase-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Chase County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "301 South Walnut, Cottonwood Falls, KS 66845",
+    "zip": "66845"
+   },
+   "phone": "(620) 273-7054",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-chippewa-county-correctional-facility",
+  "xref": "CHIPPMI",
+  "kind": "detention",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/chippewa-county-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Chippewa County Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "325 Court Street, Sault Ste. Marie, MI 49783",
+    "zip": "49783"
+   },
+   "phone": "(313) 771-6601",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-christian-county-jail",
+  "xref": "CHRISKY",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/christian-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Christian County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "410 West 7th Street, Hopkinsville, KY 42240",
+    "zip": "42240"
+   },
+   "phone": "(270) 887-4152",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-cibola-county-correctional-center",
+  "xref": "CIBOCNM",
+  "kind": "detention",
+  "state": "NM",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/cibola-county-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Cibola County Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2000 Cibola Loop, Milan, NM 87021",
+    "zip": "87021"
+   },
+   "phone": "(505) 285-4900",
+   "fieldOffice": "ELP"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-cimarron-correctional-facility",
+  "xref": "ice-cimarron-correctional-facility",
+  "kind": "detention",
+  "state": "OK",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/cimarron-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Cimarron Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3200 S. Kings Hwy, Cushing, OK 74023",
+    "zip": "74023"
+   },
+   "phone": "(918) 225-3336",
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-clark-county-jail",
+  "xref": "CLARKID",
+  "kind": "detention",
+  "state": "IN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/clark-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Clark County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "501 E Court Avenue, Jeffersonville, IN 47130",
+    "zip": "47130"
+   },
+   "phone": "(812) 283-4471",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-clay-county-jail",
+  "xref": "CLAYCIN",
+  "kind": "detention",
+  "state": "IN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/clay-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Clay County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "611 East Jackson Street, Brazil, IN 47834",
+    "zip": "47834"
+   },
+   "phone": "(812) 448-9051",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-clinton-county-correctional-facility",
+  "xref": "ice-clinton-county-correctional-facility",
+  "kind": "detention",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/clinton-county-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Clinton County Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "58 Pine Mountain Road, McElhattan, PA 17748",
+    "zip": "17748"
+   },
+   "phone": "(570) 547-6903",
+   "fieldOffice": "PHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-clinton-county-jail",
+  "xref": "CLICONY",
+  "kind": "detention",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/clinton-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Clinton County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "25 McCarthy Drive, Plattsburgh, NY 12901",
+    "zip": "12901"
+   },
+   "phone": "(518) 565-4343",
+   "fieldOffice": "BUF"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-clinton-county-so",
+  "xref": "CLINTIN",
+  "kind": "detention",
+  "state": "IN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/clinton-county-so",
+  "fields": {
+   "name": [
+    {
+     "value": "Clinton County Sheriff&#039;s Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "301 E Walnut Street, Frankfort, IN 46041",
+    "zip": "46041"
+   },
+   "phone": "(765) 659-6396",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-cnmi-department-corrections",
+  "xref": "MPSIPAN",
+  "kind": "detention",
+  "state": "MP",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/cnmi-department-corrections",
+  "fields": {
+   "name": [
+    {
+     "value": "CNMI Department of Corrections",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "Vincente Taman Building, Susupe, Saipan, MP 96950",
+    "zip": "96950"
+   },
+   "phone": "(670) 237-6000",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-coastal-bend-detention-center",
+  "xref": "CBENDTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/coastal-bend-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Coastal Bend Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "4909 Farm to Market Road, Robstown, TX 78380",
+    "zip": "78380"
+   },
+   "phone": "(361) 767-3400",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-laredo-detention-center",
+  "xref": "ice-laredo-detention-center",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/laredo-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "CoreCivic Laredo Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "4702 East Saunders, Laredo, TX 78401",
+    "zip": "78401"
+   },
+   "phone": "(956) 615-9720",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-webb-county-detention-center",
+  "xref": "WEBDCTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/webb-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "CoreCivic Webb County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "9998 S. Highway 83, Laredo, TX 78046",
+    "zip": "78046"
+   },
+   "phone": "(956) 615-9720",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-corrections-center-northwest-ohio-ccno",
+  "xref": "ice-corrections-center-northwest-ohio-ccno",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/corrections-center-northwest-ohio-ccno",
+  "fields": {
+   "name": [
+    {
+     "value": "Corrections Center of Northwest Ohio (CCNO)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "03151 Co. Rd. 24.2, Stryker, OH 43557",
+    "zip": "43557"
+   },
+   "phone": "(419) 428-3800",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-crow-wing-county-jail",
+  "xref": "CROWGMN",
+  "kind": "detention",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/crow-wing-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Crow Wing County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "313 Laurel Street, Brainerd, MN 56401",
+    "zip": "56401"
+   },
+   "phone": "(218) 822-7050",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-cumberland-county-jail",
+  "xref": "CUMBEME",
+  "kind": "detention",
+  "state": "ME",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/cumberland-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Cumberland County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "50 County Way, Portland, ME 04102",
+    "zip": "04102"
+   },
+   "phone": "(207) 774-5939",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-dakota-county-sheriff-office",
+  "xref": "DAKOTNE",
+  "kind": "detention",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/dakota-county-sheriff-office",
+  "fields": {
+   "name": [
+    {
+     "value": "Dakota County Sheriff Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1601 Broadway Street, Dakota City, NE 68731",
+    "zip": "68731"
+   },
+   "phone": "(402) 987-2176",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-daviess-county-detention-center",
+  "xref": "ice-daviess-county-detention-center",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/daviess-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Daviess County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3337 Highway 144, Owensboro, KY 42303",
+    "zip": "42303"
+   },
+   "phone": "(270) 685-8466",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-delaney-hall-detention-facility",
+  "xref": "DHDFNJ",
+  "kind": "detention",
+  "state": "NJ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/delaney-hall-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Delaney Hall Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "451 Doremus Avenue, Newark, NJ 07105",
+    "zip": "07105"
+   },
+   "phone": "(973) 474-2200",
+   "fieldOffice": "NEW"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-aurora-contract-detention-facility",
+  "xref": "DENICDF",
+  "kind": "detention",
+  "state": "CO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/aurora-contract-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Denver Contract Detention Facility (Aurora)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3130 North Oakland Street, Aurora, CO 80010",
+    "zip": "80010"
+   },
+   "phone": "(303) 361-6612",
+   "fieldOffice": "DEN"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-desert-view-annex",
+  "xref": "ice-desert-view-annex",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/desert-view-annex",
+  "fields": {
+   "name": [
+    {
+     "value": "Desert View Annex",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "10450 Rancho Road, Adelanto, CA 92301",
+    "zip": "92301"
+   },
+   "phone": "(760) 246-1171",
+   "fieldOffice": "LOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-diamondback-correctional-facility",
+  "xref": "ice-diamondback-correctional-facility",
+  "kind": "detention",
+  "state": "OK",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/diamondback-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Diamondback Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1000 Diamondback Road, Watonga, OK 73772",
+    "zip": "73772"
+   },
+   "phone": "(888) 351-4024",
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-dilley-immigration-processing-center",
+  "xref": "ice-dilley-immigration-processing-center",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/dilley-immigration-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Dilley Immigration Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "300 El Rancho Way, Dilley, TX 78017",
+    "zip": "78017"
+   },
+   "phone": "(830) 378-6500",
+   "fieldOffice": "SNA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-dodge-detention-facility",
+  "xref": "DODGEWI",
+  "kind": "detention",
+  "state": "WI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/dodge-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Dodge Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "216 W. Center Street, Juneau, WI 53039",
+    "zip": "53039"
+   },
+   "phone": "(312) 347-2400",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-douglas-county-jail",
+  "xref": "DOUGLWI",
+  "kind": "detention",
+  "state": "WI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/douglas-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Douglas County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1310 N. 14th Street 7, Superior, WI 54880",
+    "zip": "54880"
+   },
+   "phone": "(715) 395-1375",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-east-hidalgo-detention-center",
+  "xref": "EHDLGTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/east-hidalgo-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "East Hidalgo Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1300 E Hwy 107, La Villa, TX 78562",
+    "zip": "78562"
+   },
+   "phone": "(956) 262-4142",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-eden-detention-center",
+  "xref": "EDENDTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/eden-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Eden Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "704 E Broadway Street, Eden, TX 76837",
+    "zip": "76837"
+   },
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-el-paso-service-processing-center",
+  "xref": "ELPHOLD",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/el-paso-service-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "El Paso Service Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "8915 Montana Avenue, El Paso, TX 79925",
+    "zip": "79925"
+   },
+   "phone": "(915) 225-0700",
+   "fieldOffice": "ELP"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-el-valle-detention-facility",
+  "xref": "ELVDFTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/el-valle-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "El Valle Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1800 Industrial Drive, Raymondville, TX 78580",
+    "zip": "78580"
+   },
+   "phone": "(956) 689-9999",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-elizabeth-contract-detention-facility",
+  "xref": "ELZICDF",
+  "kind": "detention",
+  "state": "NJ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/elizabeth-contract-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Elizabeth Contract Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "625 Evans Street, Elizabeth, NJ 07201",
+    "zip": "07201"
+   },
+   "phone": "(908) 282-5700",
+   "fieldOffice": "NEW"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-elmore-county-detention-center-elmore-county-jail",
+  "xref": "ELMORID",
+  "kind": "detention",
+  "state": "ID",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/elmore-county-detention-center-elmore-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Elmore County Detention Center (Elmore County Jail)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2255 East 8th North, Mountain Home, ID 83647",
+    "zip": "83647"
+   },
+   "phone": "(208) 587-9103",
+   "fieldOffice": "SLC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-eloy-detention-center",
+  "xref": "EAZ",
+  "kind": "detention",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/eloy-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Eloy Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1705 E Hanna Road, Eloy, AZ 85131",
+    "zip": "85131"
+   },
+   "phone": "(520) 464-3000",
+   "fieldOffice": "PHO"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-camp-east-montana",
+  "xref": "IEPHOLD",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/camp-east-montana",
+  "fields": {
+   "name": [
+    {
+     "value": "ERO El Paso Camp East Montana",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "6920 Digital Road, El Paso, TX 79936",
+    "zip": "79936"
+   },
+   "phone": "(915) 208-0980",
+   "fieldOffice": "ELP"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-farmville-detention-center",
+  "xref": "FRMVLVA",
+  "kind": "detention",
+  "state": "VA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/farmville-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Farmville Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "508 Waterworks Road, Farmville, VA 23901",
+    "zip": "23901"
+   },
+   "phone": "(434) 395-8114",
+   "fieldOffice": "WAS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-fci-atlanta",
+  "xref": "ice-fci-atlanta",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/fci-atlanta",
+  "fields": {
+   "name": [
+    {
+     "value": "FCI Atlanta",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "601 McDonough Blvd SE, Atlanta, GA 30315",
+    "zip": "30315"
+   },
+   "phone": "(404) 893-1290",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-fci-leavenworth",
+  "xref": "BOPLVN",
+  "kind": "detention",
+  "state": "KS",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/fci-leavenworth",
+  "fields": {
+   "name": [
+    {
+     "value": "FCI Leavenworth",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1300 Metropolitan, Leavenworth, KS 66048",
+    "zip": "66048"
+   },
+   "phone": "(913) 682-8700",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-fci-lewisburg",
+  "xref": "BOPLEW",
+  "kind": "detention",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/fci-lewisburg",
+  "fields": {
+   "name": [
+    {
+     "value": "FCI Lewisburg",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2400 Robert F. Miller Drive, Lewisburg, PA 17837",
+    "zip": "17837"
+   },
+   "phone": "(570) 523-1251",
+   "fieldOffice": "PHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-fdc-miami",
+  "xref": "BOPMIM",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/fdc-miami",
+  "fields": {
+   "name": [
+    {
+     "value": "FDC Miami",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "33 NE 4th Street, Miami, FL 33132",
+    "zip": "33132"
+   },
+   "phone": "(305) 577-0010",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-fdc-philadelphia",
+  "xref": "ROUNDPA",
+  "kind": "detention",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/fdc-philadelphia",
+  "fields": {
+   "name": [
+    {
+     "value": "FDC Philadelphia",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "700 Arch Street, Philadelphia, PA 19106",
+    "zip": "19106"
+   },
+   "phone": "(215) 521-4000",
+   "fieldOffice": "PHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-federal-correctional-institution-berlin-nh",
+  "xref": "ice-federal-correctional-institution-berlin-nh",
+  "kind": "detention",
+  "state": "NH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/federal-correctional-institution-berlin-nh",
+  "fields": {
+   "name": [
+    {
+     "value": "Federal Correctional Institution - Berlin, NH",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1 Success Loop Rd, Berlin, NH 03570",
+    "zip": "03570"
+   },
+   "phone": "(603) 342-4305",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-federal-detention-center-honolulu-fdc-honolulu",
+  "xref": "BOPHON",
+  "kind": "detention",
+  "state": "HI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/federal-detention-center-honolulu-fdc-honolulu",
+  "fields": {
+   "name": [
+    {
+     "value": "Federal Detention Center, Honolulu (FDC Honolulu)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "351 Elliott Street, Honolulu, HI 96819",
+    "zip": "96819"
+   },
+   "phone": "(808) 529-1970",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-flagler-county-detention-facility",
+  "xref": "ice-flagler-county-detention-facility",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/flagler-county-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Flagler County Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1002 Justice Lane, Bunnell, FL 32110",
+    "zip": "32110"
+   },
+   "phone": "(386) 313-2200",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-florence-spc",
+  "xref": "FLO",
+  "kind": "detention",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/florence-spc",
+  "fields": {
+   "name": [
+    {
+     "value": "Florence Service Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3250 N. Pinal Parkway, Florence, AZ 85132",
+    "zip": "85132"
+   },
+   "phone": "(520) 868-5862",
+   "fieldOffice": "PHO"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-florida-soft-sided-facility-south",
+  "xref": "ice-florida-soft-sided-facility-south",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/florida-soft-sided-facility-south",
+  "fields": {
+   "name": [
+    {
+     "value": "Florida Soft Sided Facility South",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "54575 Tamiami Trail East, Ochopee, FL 34141",
+    "zip": "34141"
+   },
+   "phone": "(305) 207-2100",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-folkston-d-ray-ice-processing-center",
+  "xref": "JAMESGA",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/folkston-d-ray-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Folkston D Ray ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3262 Hwy 252E, Folkston, GA 31537",
+    "zip": "31537"
+   },
+   "phone": "(912) 496-6242",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-folkston-ice-processing-center-annex",
+  "xref": "FIPCAGA",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/folkston-ice-processing-center-annex",
+  "fields": {
+   "name": [
+    {
+     "value": "Folkston ICE Processing Center (Annex)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3424 Hwy 252 E, Folkston, GA 31537",
+    "zip": "31537"
+   },
+   "phone": "(912) 496-6905",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-folkston-ice-processing-center-main",
+  "xref": "FIPCAGA",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/folkston-ice-processing-center-main",
+  "fields": {
+   "name": [
+    {
+     "value": "Folkston ICE Processing Center (Main)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3026 Hwy 252 East, Folkston, GA 31537",
+    "zip": "31537"
+   },
+   "phone": "(912) 496-6905",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-freeborn-county-jail-services",
+  "xref": "FREEBMN",
+  "kind": "detention",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/freeborn-county-jail-services",
+  "fields": {
+   "name": [
+    {
+     "value": "Freeborn County Jail Services",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "411 S. Broadway Avenue, Albert Lea, MN 56007",
+    "zip": "56007"
+   },
+   "phone": "(612) 409-7799",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-geauga-county-safety-center",
+  "xref": "GEAUGOH",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/geauga-county-safety-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Geauga County Safety Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "12450 Merritt Road, Chardon, OH 44024",
+    "zip": "44024"
+   },
+   "phone": "(216) 535-0368",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-glades-county-detention-center",
+  "xref": "GLADEFL",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/glades-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Glades County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1297 East SR 78, Moore Haven, FL 33471",
+    "zip": "33471"
+   },
+   "phone": "(863) 946-0062",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-golden-state-annex",
+  "xref": "ice-golden-state-annex",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/golden-state-annex",
+  "fields": {
+   "name": [
+    {
+     "value": "Golden State Annex",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "611 Frontage Road, McFarland, CA 93250",
+    "zip": "93250"
+   },
+   "phone": "(661) 792-2731",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-grand-forks-county-correctional-center",
+  "xref": "GRFHOLD",
+  "kind": "detention",
+  "state": "ND",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/grand-forks-county-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Grand Forks County Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1701 North Washington, Grand Forks, ND 58203",
+    "zip": "58203"
+   },
+   "phone": "(701) 780-8224",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-grayson-county-detention-center",
+  "xref": "GRYDCKY",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/grayson-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Grayson County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "320 Shaw Station Road, Leachfield, KY 42754",
+    "zip": "42754"
+   },
+   "phone": "(270) 259-3636",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-greene-county-jail",
+  "xref": "GREENMO",
+  "kind": "detention",
+  "state": "MO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/greene-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Greene County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1199 N Haseltine Road, Springfield, MO 65802",
+    "zip": "65802"
+   },
+   "phone": "(417) 868-4040",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-guam-department-corrections-hagatna-detention-facility",
+  "xref": "GUDOCHG",
+  "kind": "detention",
+  "state": "GU",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/guam-department-corrections-hagatna-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Guam Department of Corrections, Hagatna Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "203 Aspinall Avenue, Hagatna, GU 96910",
+    "zip": "96910"
+   },
+   "phone": "(671) 777-2976",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-hardin-county-jail",
+  "xref": "HARDJIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/hardin-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Hardin County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1116 14th Avenue, Eldora, IA 50627",
+    "zip": "50627"
+   },
+   "phone": "(319) 221-1550",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-henderson-detention-center",
+  "xref": "HENDENV",
+  "kind": "detention",
+  "state": "NV",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/henderson-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Henderson Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "18 E. Basic Road, Henderson, NV 89015",
+    "zip": "89015"
+   },
+   "phone": "(702) 388-6253",
+   "fieldOffice": "SLC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-hopkins-county",
+  "xref": "ice-hopkins-county",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/hopkins-county",
+  "fields": {
+   "name": [
+    {
+     "value": "Hopkins County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2250 Laffoon Trl, Madisonville, KY 42431",
+    "zip": "42431"
+   },
+   "phone": "(270) 821-6704",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-houston-contract-detention-facility",
+  "xref": "HOUICDF",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/houston-contract-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Houston Contract Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "15850 Export Plaza Drive, Houston, TX 77032",
+    "zip": "77032"
+   },
+   "phone": "(281) 449-1481",
+   "fieldOffice": "HOU"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-iah-polk-adult-detention-facility",
+  "xref": "POLKCTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/iah-polk-adult-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "IAH Polk Adult Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3400 FM 350 South, Livingston, TX 77351",
+    "zip": "77351"
+   },
+   "phone": "(936) 967-1700",
+   "fieldOffice": "HOU"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-imperial-regional-detention-facility",
+  "xref": "IRADFCA",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/imperial-regional-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Imperial Regional Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1572 Gateway Road, Calexico, CA 92231",
+    "zip": "92231"
+   },
+   "phone": "(760) 618-7200",
+   "fieldOffice": "SND"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-irwin-county-detention-center",
+  "xref": "ice-irwin-county-detention-center",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/irwin-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Irwin County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "132 Cotton Drive, Ocilla, GA 31774",
+    "zip": "31774"
+   },
+   "phone": "(229) 468-4121",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-jackson-parish-correctional-center",
+  "xref": "JKPCCLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/jackson-parish-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Jackson Parish Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "287 Industrial Drive, Jonesboro, LA 71251",
+    "zip": "71251"
+   },
+   "phone": "(318) 259-8799",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-joe-corley-processing-center",
+  "xref": "MONTGTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/joe-corley-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Joe Corley Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "500 Hilbig Road, Conroe, TX 77301",
+    "zip": "77301"
+   },
+   "phone": "(936) 520-5000",
+   "fieldOffice": "HOU"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-kandiyohi-county-jail",
+  "xref": "KANDIMN",
+  "kind": "detention",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/kandiyohi-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Kandiyohi County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2201 23rd St. NE, Willmar, MN 56201",
+    "zip": "56201"
+   },
+   "phone": "(320) 214-6700",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-karnes-county-ipc",
+  "xref": "KARNETX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/karnes-county-ipc",
+  "fields": {
+   "name": [
+    {
+     "value": "Karnes County Immigration Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "409 FM 1144, Karnes City, TX 78118",
+    "zip": "78118"
+   },
+   "phone": "(830) 254-2000",
+   "fieldOffice": "SNA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-kay-county-detention-center",
+  "xref": "KCOJFOK",
+  "kind": "detention",
+  "state": "OK",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/kay-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Kay County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1101 West Dry Road, Newkirk, OK 74647",
+    "zip": "74647"
+   },
+   "phone": "(580) 362-3393",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-kenton-county-detention-center",
+  "xref": "ice-kenton-county-detention-center",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/kenton-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Kenton County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3000 Decker Crane Lane, Covington, KY 41017",
+    "zip": "41017"
+   },
+   "phone": "(859) 363-2400",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-krome-north-service-processing-center",
+  "xref": "KRO",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/krome-north-service-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Krome North Service Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "18201 SW 12th Street, Miami, FL 33194",
+    "zip": "33194"
+   },
+   "phone": "(305) 207-2100",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-la-salle-county-regional-detention-center",
+  "xref": "LSRDCTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/la-salle-county-regional-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "La Salle County Regional Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "832 East Texas HWY 44, Encinal, TX 78019",
+    "zip": "78019"
+   },
+   "phone": "(956) 948-5193",
+   "fieldOffice": "SNA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-liberty-county-sheriffs-office",
+  "xref": "ice-liberty-county-sheriffs-office",
+  "kind": "detention",
+  "state": "FL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/liberty-county-sheriffs-office",
+  "fields": {
+   "name": [
+    {
+     "value": "Liberty County Sheriff’s Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "12422 NW Revell Road, Bristol, FL 32321",
+    "zip": "32321"
+   },
+   "phone": "(850) 756-9749",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-limestone-county-detention-center",
+  "xref": "LIMESTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/limestone-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Limestone County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "910 North Tyus Street, Groesbeck, TX 76642",
+    "zip": "76642"
+   },
+   "phone": "(254) 729-2674",
+   "fieldOffice": "HOU"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-lincoln-county-detention-center",
+  "xref": "LINCONE",
+  "kind": "detention",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/lincoln-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Lincoln County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "302 N Jeffers Street, North Platte, NE 69101",
+    "zip": "69101"
+   },
+   "phone": "(308) 535-9599",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-louisiana-ice-processing-center",
+  "xref": "ice-louisiana-ice-processing-center",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/louisiana-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Louisiana ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "17544 Tunica Trace, Angola, LA 70712",
+    "zip": "70712"
+   },
+   "phone": "(225) 655-9013",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-mahoning-county-justice-center",
+  "xref": "MAHONOH",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/mahoning-county-justice-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Mahoning County Justice Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "110 Fifth Avenue, Youngstown, OH 44503",
+    "zip": "44503"
+   },
+   "phone": "(330) 480-4950",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-mccook-detention-center",
+  "xref": "ice-mccook-detention-center",
+  "kind": "detention",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/mccook-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "McCook Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2309 US-83 N, McCook, NE 69001",
+    "zip": "69001"
+   },
+   "phone": "(308) 345-8405",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-mdc-brooklyn",
+  "xref": "BOPBRO",
+  "kind": "detention",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/mdc-brooklyn",
+  "fields": {
+   "name": [
+    {
+     "value": "MDC Brooklyn",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "80 29th Street, Brooklyn, NY 11232",
+    "zip": "11232"
+   },
+   "phone": "(718) 840-4200",
+   "fieldOffice": "NYC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-mesa-verde-ice-processing-facility",
+  "xref": "CACFMES",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/mesa-verde-ice-processing-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Mesa Verde ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "425 Golden State Avenue, Bakersfield, CA 93301",
+    "zip": "93301"
+   },
+   "phone": "(661) 859-1028",
+   "fieldOffice": "SFR"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-miami-correctional-facility-mcf",
+  "xref": "ice-miami-correctional-facility-mcf",
+  "kind": "detention",
+  "state": "IN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/miami-correctional-facility-mcf",
+  "fields": {
+   "name": [
+    {
+     "value": "Miami Correctional Facility (MCF)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3038 West 850S, Bunker Hill, IN 46914",
+    "zip": "46914"
+   },
+   "phone": "(765) 689-8920",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-midwest-regional-reception-center",
+  "xref": "ice-midwest-regional-reception-center",
+  "kind": "detention",
+  "state": "KS",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/midwest-regional-reception-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Midwest Regional Reception Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "100 Highway Terrace, Leavenworth, KS 66048",
+    "zip": "66048"
+   },
+   "phone": "(913) 727-3246",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-monroe-county-jail",
+  "xref": "MNROEMI",
+  "kind": "detention",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/monroe-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Monroe County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "7000 East Dunbar Road, Monroe, MI 48161",
+    "zip": "48161"
+   },
+   "phone": "(313) 771-6601",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-montgomery-processing-center",
+  "xref": "MTGPCTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/montgomery-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Montgomery Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "806 Hilbig Road, Conroe, TX 77301",
+    "zip": "77301"
+   },
+   "phone": "(936) 521-4900",
+   "fieldOffice": "HOU"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-moshannon-valley-processing-center",
+  "xref": "ice-moshannon-valley-processing-center",
+  "kind": "detention",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/moshannon-valley-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Moshannon Valley Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "555 GEO Drive, Philipsburg, PA 16866",
+    "zip": "16866"
+   },
+   "phone": "(717) 767-2300",
+   "fieldOffice": "PHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-muscatine-county-jail",
+  "xref": "MUSCAIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/muscatine-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Muscatine County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "400 Walnut Street, Muscatine, IA 52761",
+    "zip": "52761"
+   },
+   "phone": "(563) 262-4190",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-natrona-county-detention-center",
+  "xref": "NATROWY",
+  "kind": "detention",
+  "state": "WY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/natrona-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Natrona County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1100 Bruce Lane, Casper, WY 82601",
+    "zip": "82601"
+   },
+   "phone": "(307) 235-9521",
+   "fieldOffice": "DEN"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-naval-station-guantanamo-bay",
+  "xref": "ice-naval-station-guantanamo-bay",
+  "kind": "detention",
+  "state": "NV",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/naval-station-guantanamo-bay",
+  "fields": {
+   "name": [
+    {
+     "value": "Naval Station Guantanamo Bay (JTF Camp Six and Migrant Ops Center Main A)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2190 E Mesquite Avenue, Pahrump, NV 89048",
+    "zip": "89048"
+   },
+   "phone": "(954) 236-4900",
+   "fieldOffice": "MIA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-nevada-southern-detention-center",
+  "xref": "ice-nevada-southern-detention-center",
+  "kind": "detention",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/nevada-southern-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Nevada Southern Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1805 W 32nd Street, Baldwin, MI 49304",
+    "zip": "49304"
+   },
+   "phone": "(702) 388-6253",
+   "fieldOffice": "SLC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-north-lake-processing-center",
+  "xref": "ice-north-lake-processing-center",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/north-lake-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "North Lake Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2240 Hubbard Road, Youngstown, OH 44505",
+    "zip": "44505"
+   },
+   "phone": "(231) 876-4900",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-northeast-ohio-correctional-center",
+  "xref": "ice-northeast-ohio-correctional-center",
+  "kind": "detention",
+  "state": "WA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/northeast-ohio-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Northeast Ohio Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1623 E J Street, Suite 2, Tacoma, WA 98421",
+    "zip": "98421"
+   },
+   "phone": "(330) 746-3777",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-northwest-ice-processing-center-nwipc",
+  "xref": "VTSTALB",
+  "kind": "detention",
+  "state": "VT",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/northwest-ice-processing-center-nwipc",
+  "fields": {
+   "name": [
+    {
+     "value": "Northwest ICE Processing Center (NWIPC)",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3649 Lower Newton Road, Swanton, VT 05488",
+    "zip": "05488"
+   },
+   "phone": "(253) 779-6000",
+   "fieldOffice": "SEA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-northwest-state-correctional-facility",
+  "xref": "ice-northwest-state-correctional-facility",
+  "kind": "detention",
+  "state": "KY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/northwest-state-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Northwest State Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3405 West Highway 146, LaGrange, KY 40031",
+    "zip": "40031"
+   },
+   "phone": "(802) 524-6771",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-oldham-county-detention-center",
+  "xref": "ice-oldham-county-detention-center",
+  "kind": "detention",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/oldham-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Oldham County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "110 Wells Farm Road, Goshen, NY 10924",
+    "zip": "10924"
+   },
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-orange-county-jail",
+  "xref": "ice-orange-county-jail",
+  "kind": "detention",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/orange-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Orange County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "7488 Calzada de la Fuente, San Diego, CA 92154",
+    "zip": "92154"
+   },
+   "phone": "(845) 291-7758",
+   "fieldOffice": "NYC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-otay-mesa-detention-center",
+  "xref": "ice-otay-mesa-detention-center",
+  "kind": "detention",
+  "state": "NM",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/otay-mesa-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Otay Mesa Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "26 McGregor Range Road, Chaparral, NM 88081",
+    "zip": "88081"
+   },
+   "fieldOffice": "SND"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-otero-county-processing-center",
+  "xref": "ice-otero-county-processing-center",
+  "kind": "detention",
+  "state": "MO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/otero-county-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Otero County Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1818 County Road 806, Gainesville, MO 65655",
+    "zip": "65655"
+   },
+   "phone": "(575) 824-0440",
+   "fieldOffice": "ELP"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-ozark-county-jail",
+  "xref": "ice-ozark-county-jail",
+  "kind": "detention",
+  "state": "SD",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/ozark-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Ozark County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "307 Saint Joseph St, Rapid City, SD 57701",
+    "zip": "57701"
+   },
+   "phone": "(417) 679-4633",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-pennington-county-jail",
+  "xref": "ice-pennington-county-jail",
+  "kind": "detention",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/pennington-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Pennington County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "715 5th Avenue, Holdrege, NE 68949",
+    "zip": "68949"
+   },
+   "phone": "(605) 394-6116",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-phelps-county-jail",
+  "xref": "ice-phelps-county-jail",
+  "kind": "detention",
+  "state": "MO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/phelps-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Phelps County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "500 W. 2nd Street, Rolla, MO 65401",
+    "zip": "65401"
+   },
+   "phone": "(308) 995-5692",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-pike-county-correctional-facility",
+  "xref": "PIKCOPA",
+  "kind": "detention",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/pike-county-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Pike County Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "175 Pike County Blvd., Lords Valley, PA 18428",
+    "zip": "18428"
+   },
+   "phone": "(570) 775-5500",
+   "fieldOffice": "PHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-pine-prairie-ice-processing-center",
+  "xref": "PINEPLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/pine-prairie-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Pine Prairie ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1133 Hampton Dupre Road, Pine Prairie, LA 70576",
+    "zip": "70576"
+   },
+   "phone": "(504) 599-7845",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-plymouth-county-correctional-facility",
+  "xref": "PLYMOMA",
+  "kind": "detention",
+  "state": "MA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/plymouth-county-correctional-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Plymouth County Correctional Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "26 Long Pond Road, Plymouth, MA 02360",
+    "zip": "02360"
+   },
+   "phone": "(508) 830-6200",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-polk-county-jail",
+  "xref": "POLKJIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/polk-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Polk County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1985 NE 51st Place, Des Moines, IA 50313",
+    "zip": "50313"
+   },
+   "phone": "(515) 323-5400",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-port-isabel-service-processing-center",
+  "xref": "PIC",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/port-isabel-service-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Port Isabel Service Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "27991 Buena Vista Blvd., Los Fresnos, TX 78566",
+    "zip": "78566"
+   },
+   "phone": "(956) 547-1700",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-pottawattamie-county-jail",
+  "xref": "POTTAIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/pottawattamie-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Pottawattamie County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1400 Big Lake Road, Council Bluffs, IA 51501",
+    "zip": "51501"
+   },
+   "phone": "(712) 890-2250",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-prairieland-detention-facility",
+  "xref": "PRLDCTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/prairieland-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Prairieland Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1209 Sunflower Lane, Alvarado, TX 76009",
+    "zip": "76009"
+   },
+   "phone": "(817) 409-3995",
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-richwood-correctional-center",
+  "xref": "RWCCMLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/richwood-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Richwood Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "180 Pine Bayou Circle, Monroe, LA 71202",
+    "zip": "71202"
+   },
+   "phone": "(318) 998-5800",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-rio-grande-detention-center",
+  "xref": "RGRNDTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/rio-grande-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Rio Grande Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1001 San Rio Blvd, Laredo, TX 78046",
+    "zip": "78046"
+   },
+   "phone": "(956) 615-9720",
+   "fieldOffice": "HLG"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-river-correctional-center",
+  "xref": "RVRCCLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/river-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "River Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "26362 Highway 15, Ferriday, LA 71334",
+    "zip": "71334"
+   },
+   "phone": "(318) 757-0622",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-rolling-plains-detention-center",
+  "xref": "HASKLTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/rolling-plains-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Rolling Plains Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "118 County Road 206, Haskell, TX 79521",
+    "zip": "79521"
+   },
+   "phone": "(214) 905-5829",
+   "fieldOffice": "DAL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-san-luis-regional-detention-center",
+  "xref": "SLRDCAZ",
+  "kind": "detention",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/san-luis-regional-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "San Luis Regional Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "406 North Avenue D, San Luis, AZ 85349",
+    "zip": "85349"
+   },
+   "phone": "(928) 627-2101",
+   "fieldOffice": "SND"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-sarpy-county-department-corrections",
+  "xref": "SARPYNE",
+  "kind": "detention",
+  "state": "NE",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/sarpy-county-department-corrections",
+  "fields": {
+   "name": [
+    {
+     "value": "Sarpy County Department of Corrections",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1206 Golden Gate Drive, Papillion, NE 68046",
+    "zip": "68046"
+   },
+   "phone": "(402) 949-3876",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-seneca-county-jail",
+  "xref": "SENECOH",
+  "kind": "detention",
+  "state": "OH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/seneca-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Seneca County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3040 South State Route 100, Tiffin, OH 44883",
+    "zip": "44883"
+   },
+   "phone": "(419) 448-5074",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-sherburne-county-jail-services",
+  "xref": "SHERBMN",
+  "kind": "detention",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/sherburne-county-jail-services",
+  "fields": {
+   "name": [
+    {
+     "value": "Sherburne County Jail Services",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "13880 Business Center Drive NW, Elk River, MN 55330",
+    "zip": "55330"
+   },
+   "phone": "(763) 765-3800",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-sioux-county-jail",
+  "xref": "SIOUXIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/sioux-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Sioux County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "4363 Ironwood Avenue, Orange City, IA 51041",
+    "zip": "51041"
+   },
+   "phone": "(712) 737-2280",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-south-louisiana-ice-processing-center",
+  "xref": "BASILLA",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/south-louisiana-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "South Louisiana ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3843 Stagg Ave, Basile, LA 70515",
+    "zip": "70515"
+   },
+   "phone": "(318) 668-5900",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-south-texas-ice-processing-center",
+  "xref": "STCDFTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center",
+  "fields": {
+   "name": [
+    {
+     "value": "South Texas ICE Processing Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "566 Veterans Drive, Pearsall, TX 78061",
+    "zip": "78061"
+   },
+   "phone": "(210) 231-4505",
+   "fieldOffice": "SNA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-st-clair-county-jail",
+  "xref": "STCLAMI",
+  "kind": "detention",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/st-clair-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "St. Clair County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1170 Michigan Road, Port Huron, MI 48060",
+    "zip": "48060"
+   },
+   "phone": "(313) 771-6601",
+   "fieldOffice": "DET"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-ste-genevieve-county-detention-center",
+  "xref": "ice-ste-genevieve-county-detention-center",
+  "kind": "detention",
+  "state": "MO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/ste-genevieve-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Ste. Genevieve County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "5 Basler Drive, Ste. Genevieve, MO 63670",
+    "zip": "63670"
+   },
+   "phone": "(573) 883-5820",
+   "fieldOffice": "CHI"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-stewart-detention-center",
+  "xref": "STWRTGA",
+  "kind": "detention",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/stewart-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Stewart Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "146 CCA Road, Lumpkin, GA 31815",
+    "zip": "31815"
+   },
+   "phone": "(229) 838-5000",
+   "fieldOffice": "ATL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-strafford-county-corrections",
+  "xref": "STRAFNH",
+  "kind": "detention",
+  "state": "NH",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/strafford-county-corrections",
+  "fields": {
+   "name": [
+    {
+     "value": "Strafford County Corrections",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "266 County Farm Road, Dover, NH 03820",
+    "zip": "03820"
+   },
+   "phone": "(603) 742-3310",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-sweetwater-county-detention-center",
+  "xref": "SWEETWY",
+  "kind": "detention",
+  "state": "WY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/sweetwater-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Sweetwater County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "50140 US Highway 191 South, Rock Springs, WY 82901",
+    "zip": "82901"
+   },
+   "phone": "(307) 352-4900",
+   "fieldOffice": "DEN"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-t-don-hutto-detention-center",
+  "xref": "CCAHUTX",
+  "kind": "detention",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/t-don-hutto-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "T. Don Hutto Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1001 Welch Street, Taylor, TX 76574",
+    "zip": "76574"
+   },
+   "phone": "(512) 218-2400",
+   "fieldOffice": "SNA"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-torrance-county-detention-facility",
+  "xref": "TOORANM",
+  "kind": "detention",
+  "state": "NM",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/torrance-county-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Torrance County Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "209 County Road A049, Estancia, NM 87016",
+    "zip": "87016"
+   },
+   "phone": "(505) 452-4821",
+   "fieldOffice": "ELP"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-two-bridges-regional-jail",
+  "xref": "ice-two-bridges-regional-jail",
+  "kind": "detention",
+  "state": "ME",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/two-bridges-regional-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Two Bridges Regional Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "522 Bath Road, Wiscasset, ME 04578",
+    "zip": "04578"
+   },
+   "phone": "(207) 882-4268",
+   "fieldOffice": "BOS"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-uinta-county-detention-center",
+  "xref": "UINTAWY",
+  "kind": "detention",
+  "state": "WY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/uinta-county-detention-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Uinta County Detention Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "77 County Road #109, Evanston, WY 82930",
+    "zip": "82930"
+   },
+   "phone": "(307) 783-1020",
+   "fieldOffice": "SLC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-washoe-county-jail",
+  "xref": "WASHONV",
+  "kind": "detention",
+  "state": "NV",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/washoe-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Washoe County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "911 E Parr Blvd, Reno, NV 89512",
+    "zip": "89512"
+   },
+   "phone": "(775) 328-3001",
+   "fieldOffice": "SLC"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-west-tennessee-detention-facility",
+  "xref": "TNWESDF",
+  "kind": "detention",
+  "state": "TN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/west-tennessee-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "West Tennessee Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "6299 Finde Naifeh Drive, Mason, TN 38049",
+    "zip": "38049"
+   },
+   "phone": "(901) 294-3060",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-winn-correctional-center",
+  "xref": "LAWINCI",
+  "kind": "detention",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/winn-correctional-center",
+  "fields": {
+   "name": [
+    {
+     "value": "Winn Correctional Center",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "560 Gum Springs Road, Winnfield, LA 71483",
+    "zip": "71483"
+   },
+   "phone": "(318) 628-3971",
+   "fieldOffice": "NOL"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-woodbury-county-jail",
+  "xref": "WOODBIA",
+  "kind": "detention",
+  "state": "IA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/woodbury-county-jail",
+  "fields": {
+   "name": [
+    {
+     "value": "Woodbury County Jail",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "3701 28th Street, Sioux City, IA 51101",
+    "zip": "51101"
+   },
+   "phone": "(712) 279-6040",
+   "fieldOffice": "SPM"
+  }
+ },
+ {
+  "source": "ice",
+  "sourceRecordId": "ice-wyatt-detention-facility",
+  "xref": "WYATTRI",
+  "kind": "detention",
+  "state": "RI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/detain/detention-facilities/wyatt-detention-facility",
+  "fields": {
+   "name": [
+    {
+     "value": "Wyatt Detention Facility",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "950 High Street, Central Falls, RI 02863",
+    "zip": "02863"
+   },
+   "phone": "(401) 729-1190",
+   "fieldOffice": "BOS"
+  }
+ }
+]

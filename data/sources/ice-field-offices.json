@@ -1,0 +1,529 @@
+[
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-ATL",
+  "xref": "ero-atl",
+  "kind": "field-office",
+  "state": "GA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Atlanta Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "180 Ted Turner Dr. SW, Suite 522, Atlanta, GA 30303",
+    "zip": "30303"
+   },
+   "phone": "(404) 893-1290",
+   "areaOfResponsibility": "Georgia, North Carolina, South Carolina"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-BUF",
+  "xref": "ero-buf",
+  "kind": "field-office",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Buffalo Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "250 Delaware Avenue, Floor 7, Buffalo, NY 14202",
+    "zip": "14202"
+   },
+   "phone": "(716) 464-5800",
+   "areaOfResponsibility": "Upstate New York"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-BOS",
+  "xref": "ero-bos",
+  "kind": "field-office",
+  "state": "MA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Boston Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1000 District Avenue, Burlington, MA 01803",
+    "zip": "01803"
+   },
+   "phone": "(781) 359-7500",
+   "areaOfResponsibility": "Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-DEN",
+  "xref": "ero-den",
+  "kind": "field-office",
+  "state": "CO",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Denver Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "12445 E. Caley Avenue, Centennial, CO 80111",
+    "zip": "80111"
+   },
+   "phone": "(720) 873-2899",
+   "areaOfResponsibility": "Colorado, Wyoming"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-WAS",
+  "xref": "ero-was",
+  "kind": "field-office",
+  "state": "VA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Washington Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "14797 Murdock Street, Mail Stop 5216, Chantilly, VA 20598",
+    "zip": "20598"
+   },
+   "phone": "(703) 633-2100",
+   "areaOfResponsibility": "District of Columbia and Virginia"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-CHI",
+  "xref": "ero-chi",
+  "kind": "field-office",
+  "state": "IL",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Chicago Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "101 W Ida B Wells Drive, Suite 4000, Chicago, IL 60605",
+    "zip": "60605"
+   },
+   "phone": "(872) 351-3990",
+   "areaOfResponsibility": "Illinois, Indiana, Wisconsin, Missouri, Kentucky, Kansas"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-DAL",
+  "xref": "ero-dal",
+  "kind": "field-office",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Dallas Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "8101 N. Stemmons Frwy, Dallas, TX 75247",
+    "zip": "75247"
+   },
+   "phone": "(972) 367-2200",
+   "areaOfResponsibility": "North Texas, Oklahoma"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-DET",
+  "xref": "ero-det",
+  "kind": "field-office",
+  "state": "MI",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Detroit Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "985 Michigan Avenue, Suite 207, Detroit, MI 48226",
+    "zip": "48226"
+   },
+   "phone": "(313) 771-6601",
+   "areaOfResponsibility": "Michigan, Ohio"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-ELP",
+  "xref": "ero-elp",
+  "kind": "field-office",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "El Paso Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "11541 Montana Ave, Suite E, El Paso, TX 79936",
+    "zip": "79936"
+   },
+   "phone": "(915) 225-1901",
+   "areaOfResponsibility": "West Texas, New Mexico"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SPM",
+  "xref": "ero-spm",
+  "kind": "field-office",
+  "state": "MN",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "St Paul Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1 Federal Drive, Suite 1601, Fort Snelling, MN 55111",
+    "zip": "55111"
+   },
+   "phone": "(612) 409-7799",
+   "areaOfResponsibility": "Iowa, Minnesota, Nebraska, North Dakota, South Dakota"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-HLG",
+  "xref": "ero-hlg",
+  "kind": "field-office",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Harlingen Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1717 Zoy Street, Harlingen, TX 78552",
+    "zip": "78552"
+   },
+   "phone": "(956) 389-7884",
+   "areaOfResponsibility": "South Texas"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-LOS",
+  "xref": "ero-los",
+  "kind": "field-office",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Los Angeles Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "300 North Los Angeles St., Room 7631, Los Angeles, CA 90012",
+    "zip": "90012"
+   },
+   "phone": "(213) 830-7911",
+   "areaOfResponsibility": "Los Angeles Metropolitan Area (Counties of Los Angeles, Orange, Riverside, San Bernardino), and Central Coast (Counties of Ventura, Santa Barbara and San Luis Obispo)"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-NYC",
+  "xref": "ero-nyc",
+  "kind": "field-office",
+  "state": "NY",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "New York City Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "26 Federal Plaza, 9th Floor, Suite 9-110, New York, NY 10278",
+    "zip": "10278"
+   },
+   "phone": "(212) 436-9315",
+   "areaOfResponsibility": "The five boroughs (counties of NYC) and the following counties: Duchess, Nassau, Putnam, Suffolk, Sullivan, Orange, Rockland, Ulster, and Westchester"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-NEW",
+  "xref": "ero-new",
+  "kind": "field-office",
+  "state": "NJ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Newark Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "970 Broad St. 11th Floor, Newark, NJ 07102",
+    "zip": "07102"
+   },
+   "phone": "(862) 445-9200",
+   "areaOfResponsibility": "New Jersey"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-PHI",
+  "xref": "ero-phi",
+  "kind": "field-office",
+  "state": "PA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Philadelphia Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "114 North 8th Street, Philadelphia, PA 19107",
+    "zip": "19107"
+   },
+   "phone": "(215) 656-7164",
+   "areaOfResponsibility": "Delaware, Pennsylvania, West Virginia"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-PHO",
+  "xref": "ero-pho",
+  "kind": "field-office",
+  "state": "AZ",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Phoenix Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2035 N. Central Avenue, Phoenix, AZ 85004",
+    "zip": "85004"
+   },
+   "phone": "(602) 257-5900",
+   "areaOfResponsibility": "Arizona"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SNA",
+  "xref": "ero-sna",
+  "kind": "field-office",
+  "state": "TX",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "San Antonio Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "1777 NE Loop 410, Floor 15, San Antonio, TX 78217",
+    "zip": "78217"
+   },
+   "phone": "(210) 283-4750",
+   "areaOfResponsibility": "Central Texas"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SND",
+  "xref": "ero-snd",
+  "kind": "field-office",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "San Diego Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "880 Front Street, #2242, San Diego, CA 92101",
+    "zip": "92101"
+   },
+   "phone": "(619) 436-0410",
+   "areaOfResponsibility": "San Diego and Imperial County"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SFR",
+  "xref": "ero-sfr",
+  "kind": "field-office",
+  "state": "CA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "San Francisco Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "630 Sansome Street, Rm 590, San Francisco, CA 94111",
+    "zip": "94111"
+   },
+   "phone": "(415) 365-8800",
+   "areaOfResponsibility": "Northern California, Hawaii, Guam,&nbsp;Saipan"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SEA",
+  "xref": "ero-sea",
+  "kind": "field-office",
+  "state": "WA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Seattle Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "12500 Tukwila International Boulevard, Seattle, WA 98168",
+    "zip": "98168"
+   },
+   "phone": "(206) 277-2000",
+   "areaOfResponsibility": "Alaska, Oregon, Washington"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-NOL",
+  "xref": "ero-nol",
+  "kind": "field-office",
+  "state": "LA",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "New Orleans Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "181 James Drive W, St. Rose, LA 70087",
+    "zip": "70087"
+   },
+   "areaOfResponsibility": "Alabama, Arkansas, Louisiana, Mississippi, Tennessee"
+  }
+ },
+ {
+  "source": "ice-field-offices",
+  "sourceRecordId": "ero-office-SLC",
+  "xref": "ero-slc",
+  "kind": "field-office",
+  "state": "UT",
+  "sourceAsOf": "2026-07-07",
+  "captured": "2026-07-07",
+  "url": "https://www.ice.gov/contact/field-offices",
+  "fields": {
+   "name": [
+    {
+     "value": "Salt Lake City Field Office",
+     "nameType": "official-dhs"
+    }
+   ],
+   "address": {
+    "full": "2975 Decker Lake Drive, Suite 100, West Valley City, UT 84119",
+    "zip": "84119"
+   },
+   "phone": "(801) 736-1200",
+   "areaOfResponsibility": "Utah, Idaho, Montana, Nevada"
+  }
+ }
+]

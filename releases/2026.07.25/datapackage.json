@@ -1,0 +1,51 @@
+{
+ "name": "detention-system-data",
+ "title": "Detention System Data — U.S. immigration detention system registry",
+ "version": "2026.07.25",
+ "description": "Facts-only registry of ICE detention facilities, ERO field offices, and EOIR immigration courts, compiled from public sources with per-field citations. Conflicting source values are preserved and flagged, never silently resolved. All-rights-reserved sources appear only as attributed link-outs, never as values.",
+ "licenses": [
+  {
+   "name": "CC0-1.0",
+   "title": "CC0 1.0 (our compilation; upstream facts are public-domain or attributed)",
+   "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+  }
+ ],
+ "resources": [
+  {
+   "name": "facilities",
+   "path": "facilities.json",
+   "format": "json",
+   "mediatype": "application/json"
+  },
+  {
+   "name": "facilities-csv",
+   "path": "facilities.csv",
+   "format": "csv",
+   "mediatype": "text/csv"
+  },
+  {
+   "name": "field_offices",
+   "path": "field_offices.json",
+   "format": "json",
+   "mediatype": "application/json"
+  },
+  {
+   "name": "field_offices-csv",
+   "path": "field_offices.csv",
+   "format": "csv",
+   "mediatype": "text/csv"
+  },
+  {
+   "name": "immigration_courts",
+   "path": "immigration_courts.json",
+   "format": "json",
+   "mediatype": "application/json"
+  },
+  {
+   "name": "immigration_courts-csv",
+   "path": "immigration_courts.csv",
+   "format": "csv",
+   "mediatype": "text/csv"
+  }
+ ]
+}

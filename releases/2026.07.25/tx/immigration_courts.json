@@ -1,0 +1,743 @@
+{
+ "release": "2026.07.25",
+ "generatedAt": "2026-07-25T21:05:16.856Z",
+ "count": 12,
+ "records": [
+  {
+   "id": "court-conroe-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Conroe Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Conroe Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48339"
+    ],
+    "names": [
+     "Montgomery County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "806 Hilbig Road, Conroe, TX 77301",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "806 Hilbig Road, Conroe, TX 77301",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/conroe-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/conroe-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-conroe-immigration-court"
+   ]
+  },
+  {
+   "id": "court-dallas-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Dallas Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Dallas Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48113"
+    ],
+    "names": [
+     "Dallas County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "1100 Commerce Street, Suite 1060, Dallas, TX 75242",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1100 Commerce Street, Suite 1060, Dallas, TX 75242",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/dallas-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/dallas-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-dallas-immigration-court"
+   ]
+  },
+  {
+   "id": "court-el-paso-immigration-courts",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "El Paso Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "El Paso Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48141"
+    ],
+    "names": [
+     "El Paso County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-immigration-courts"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-immigration-courts"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-el-paso-immigration-courts"
+   ]
+  },
+  {
+   "id": "court-el-paso-spc-0",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "El Paso SPC Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "El Paso SPC Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48141"
+    ],
+    "names": [
+     "El Paso County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "8915 Montana Avenue, Suite 100, El Paso, TX 79925",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "8915 Montana Avenue, Suite 100, El Paso, TX 79925",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-spc-0"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/el-paso-spc-0"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-el-paso-spc-0"
+   ]
+  },
+  {
+   "id": "court-harlingen-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Harlingen Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Harlingen Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48061",
+     "48489"
+    ],
+    "names": [
+     "Cameron County, TX",
+     "Willacy County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/harlingen-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/harlingen-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-harlingen-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-greenspoint-park-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston – Greenspoint Park Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston – Greenspoint Park Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-greenspoint-park-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-greenspoint-park-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-greenspoint-park-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-jefferson-street-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston - Jefferson Street Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston - Jefferson Street Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "500 Jefferson Street, Suite 300, Houston, TX 77002",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "500 Jefferson Street, Suite 300, Houston, TX 77002",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-jefferson-street-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-jefferson-street-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-jefferson-street-immigration-court"
+   ]
+  },
+  {
+   "id": "court-houston-south-gessner-road-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Houston – S. Gessner Road Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Houston – S. Gessner Road Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48201"
+    ],
+    "names": [
+     "Harris County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "8701 S. Gessner Road, 10th Floor, Houston, TX 77074",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "8701 S. Gessner Road, 10th Floor, Houston, TX 77074",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-south-gessner-road-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/houston-south-gessner-road-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-houston-south-gessner-road-immigration-court"
+   ]
+  },
+  {
+   "id": "court-laredo-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Laredo Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Laredo Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48479"
+    ],
+    "names": [
+     "Webb County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "1406 Jacaman Road, Suite B, Laredo, TX 78041",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "1406 Jacaman Road, Suite B, Laredo, TX 78041",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/laredo-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/laredo-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-laredo-immigration-court"
+   ]
+  },
+  {
+   "id": "court-los-fresnos-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Port Isabel Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Port Isabel Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48061"
+    ],
+    "names": [
+     "Cameron County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/los-fresnos-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-los-fresnos-immigration-court"
+   ]
+  },
+  {
+   "id": "court-pearsall-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "Pearsall Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "Pearsall Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48163",
+     "48507"
+    ],
+    "names": [
+     "Frio County, TX",
+     "Zavala County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "566 Veterans Drive, Pearsall, TX 78061",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "566 Veterans Drive, Pearsall, TX 78061",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/pearsall-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/pearsall-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-pearsall-immigration-court"
+   ]
+  },
+  {
+   "id": "court-san-antonio-immigration-court",
+   "kind": "immigration-court",
+   "names": [
+    {
+     "value": "San Antonio Immigration Court",
+     "nameType": "official-eoir",
+     "lang": null,
+     "source": "eoir",
+     "certainty": "plausible"
+    }
+   ],
+   "primaryName": "San Antonio Immigration Court",
+   "nameAgreement": "single",
+   "county": {
+    "fips": [
+     "48029"
+    ],
+    "names": [
+     "Bexar County, TX"
+    ],
+    "agreement": "single",
+    "basis": "address"
+   },
+   "states": [
+    "TX"
+   ],
+   "fields": {
+    "address": {
+     "value": "800 Dolorosa Street, Suite 300, San Antonio, TX 78207",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "800 Dolorosa Street, Suite 300, San Antonio, TX 78207",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-antonio-immigration-court"
+      }
+     ]
+    },
+    "operationalStatus": {
+     "value": "OPEN",
+     "agreement": "single",
+     "certainty": "inferred",
+     "sources": [
+      {
+       "source": "eoir",
+       "value": "OPEN",
+       "sourceAsOf": "2026-07-07",
+       "captured": "2026-07-07",
+       "url": "https://www.justice.gov/eoir/san-antonio-immigration-court"
+      }
+     ]
+    }
+   },
+   "sourceRecordIds": [
+    "eoir-san-antonio-immigration-court"
+   ]
+  }
+ ]
+}

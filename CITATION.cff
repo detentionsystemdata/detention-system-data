@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Detention System Data"
+type: dataset
+authors:
+  - name: "Detention System Data"
+    website: "https://github.com/detentionsystemdata"
+abstract: >-
+  A facts-only registry of the U.S. immigration detention system — ICE detention
+  facilities, ERO field offices, and EOIR immigration courts — compiled from public
+  sources with per-field citations. Conflicting source values are preserved and
+  flagged, never silently resolved; all-rights-reserved sources appear only as
+  attributed link-outs, never as values.
+repository-code: "https://github.com/detentionsystemdata/detention-system-data"
+license: CC0-1.0
+version: "2026.07.05"
+date-released: "2026-07-05"
+keywords:
+  - immigration detention
+  - ICE
+  - detention facilities
+  - immigration courts
+  - open data

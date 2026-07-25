@@ -1,0 +1,62 @@
+{
+ "release": "2026.07.07",
+ "generatedAt": "2026-07-07T16:25:11.649Z",
+ "activeSources": [
+  "uwchr",
+  "ice-biweekly",
+  "ice",
+  "eoir",
+  "ice-field-offices"
+ ],
+ "sources": {
+  "uwchr": {
+   "product": "UWCHR (Univ. of Washington Center for Human Rights) — ice-detain (facilities.csv.gz + county_aor.csv)",
+   "source_url": "https://github.com/UWCHR/ice-detain",
+   "license": "amber",
+   "weight": 0.85,
+   "vintage": "GitHub main (FOIA-derived)",
+   "attribution_required": "Facility data via UWCHR ice-detain (github.com/UWCHR/ice-detain), FOIA-derived from ICE. Repo code is GPL-3.0; confirm data-reuse terms with UWCHR.",
+   "note": "FOIA-derived; repository code is GPL-3.0. Facts published with attribution pending reuse confirmation."
+  },
+  "ice": {
+   "product": "ICE official detention-facility roster (ice.gov/detention-facilities)",
+   "source_url": "https://www.ice.gov/detention-facilities",
+   "license": "green",
+   "weight": 0.95,
+   "vintage": "roster, fetched at ingest",
+   "note": "US federal work, public domain."
+  },
+  "eoir": {
+   "product": "EOIR (DOJ) immigration-court list — court operational status page",
+   "source_url": "https://www.justice.gov/eoir/immigration-court-operational-status",
+   "license": "green",
+   "weight": 0.9,
+   "vintage": "roster, fetched at ingest",
+   "note": "US federal work (DOJ), public domain. Facility-court co-location hints are this project's derivation, labeled as such."
+  },
+  "ice-biweekly": {
+   "product": "ICE FYTD detention statistics workbook (facility-level; 'Facilities' sheet)",
+   "source_url": "https://www.ice.gov/detain/detention-management",
+   "license": "green",
+   "weight": 1,
+   "vintage": "FY26 file as of 2026-04-09 (filename embeds date; publication intermittent)",
+   "note": "US federal work, public domain. Published intermittently; last-known-good is held and its date shown."
+  },
+  "ice-field-offices": {
+   "product": "ICE ERO field-office contact details (ice.gov/contact/field-offices)",
+   "source_url": "https://www.ice.gov/contact/field-offices",
+   "license": "green",
+   "weight": 0.9,
+   "vintage": "current page, fetched at ingest",
+   "note": "US federal work, public domain. ERO field offices only (the page also lists OPLA legal offices and HSI, filtered out). Adds address, phone, and area of responsibility."
+  }
+ },
+ "artifactHashes": {
+  "FY26_detentionStats_04092026.xlsx": "bbf3a29014d686f7eccce397804c9fdba7d2bf9b5fcea0180bc98443ffd4fbed"
+ },
+ "counts": {
+  "facilities": 1616,
+  "field_offices": 25,
+  "immigration_courts": 73
+ }
+}

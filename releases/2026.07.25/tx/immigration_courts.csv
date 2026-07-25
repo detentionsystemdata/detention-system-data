@@ -1,0 +1,13 @@
+id,kind,primary_name,name_agreement,county_fips,county_names,states,address,address_agreement,address_n_sources,operationalStatus,operationalStatus_agreement,operationalStatus_n_sources
+court-conroe-immigration-court,immigration-court,Conroe Immigration Court,single,48339,"Montgomery County, TX",TX,"806 Hilbig Road, Conroe, TX 77301",single,1,OPEN,single,1
+court-dallas-immigration-court,immigration-court,Dallas Immigration Court,single,48113,"Dallas County, TX",TX,"1100 Commerce Street, Suite 1060, Dallas, TX 75242",single,1,OPEN,single,1
+court-el-paso-immigration-courts,immigration-court,El Paso Immigration Court,single,48141,"El Paso County, TX",TX,"700 E. San Antonio Avenue, Suite 750, El Paso, TX 79901",single,1,OPEN,single,1
+court-el-paso-spc-0,immigration-court,El Paso SPC Immigration Court,single,48141,"El Paso County, TX",TX,"8915 Montana Avenue, Suite 100, El Paso, TX 79925",single,1,OPEN,single,1
+court-harlingen-immigration-court,immigration-court,Harlingen Immigration Court,single,48061|48489,"Cameron County, TX|Willacy County, TX",TX,"2009 West Jefferson Avenue, Suite 300, Harlingen, TX 78550",single,1,OPEN,single,1
+court-houston-greenspoint-park-immigration-court,immigration-court,Houston – Greenspoint Park Immigration Court,single,48201,"Harris County, TX",TX,"16800 Greenspoint Park Drive, 2nd Floor, Houston, TX 77060",single,1,OPEN,single,1
+court-houston-jefferson-street-immigration-court,immigration-court,Houston - Jefferson Street Immigration Court,single,48201,"Harris County, TX",TX,"500 Jefferson Street, Suite 300, Houston, TX 77002",single,1,OPEN,single,1
+court-houston-south-gessner-road-immigration-court,immigration-court,Houston – S. Gessner Road Immigration Court,single,48201,"Harris County, TX",TX,"8701 S. Gessner Road, 10th Floor, Houston, TX 77074",single,1,OPEN,single,1
+court-laredo-immigration-court,immigration-court,Laredo Immigration Court,single,48479,"Webb County, TX",TX,"1406 Jacaman Road, Suite B, Laredo, TX 78041",single,1,OPEN,single,1
+court-los-fresnos-immigration-court,immigration-court,Port Isabel Immigration Court,single,48061,"Cameron County, TX",TX,"Port Isabel Processing Center, 27991 Buena Vista Boulevard, Los Fresnos, TX 78566",single,1,OPEN,single,1
+court-pearsall-immigration-court,immigration-court,Pearsall Immigration Court,single,48163|48507,"Frio County, TX|Zavala County, TX",TX,"566 Veterans Drive, Pearsall, TX 78061",single,1,OPEN,single,1
+court-san-antonio-immigration-court,immigration-court,San Antonio Immigration Court,single,48029,"Bexar County, TX",TX,"800 Dolorosa Street, Suite 300, San Antonio, TX 78207",single,1,OPEN,single,1

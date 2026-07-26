@@ -24,7 +24,7 @@ detentionsystemdata@gmail.com or open an issue — **and show us the public sour
 - Field-office assignments disagree between sources in South Texas (the Harlingen
   carve-out); disagreements are shown, not resolved.
 - `immigrationCourt` values are **same-ZIP co-location inferences**, not jurisdiction.
-- Populations/statistics come from the most recent ICE workbook (**as of 2026-04-09**);
+- Populations/statistics come from the most recent ICE workbook (**as of 2026-07-20**);
   ICE publishes intermittently.
 - No coordinates/GeoJSON yet (county FIPS ships on every record).
 

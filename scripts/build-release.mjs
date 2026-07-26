@@ -32,6 +32,17 @@ const DIR = path.join(ROOT, "releases", TAG);
 const { generatedAt, manifest, facilities } = reconcile();
 const lic = (src) => manifest.sources[src]?.license ?? "green";
 
+// The biweekly workbook's own as-of date (embedded in its filename), read from the actual
+// ingested data rather than repeated as a separate literal that can drift out of sync with it.
+const biweeklyAsOf = (() => {
+  try {
+    const recs = JSON.parse(fs.readFileSync(path.join(ROOT, "data/sources/ice-biweekly.json"), "utf8"));
+    return recs[0]?.sourceAsOf ?? "unknown";
+  } catch {
+    return "unknown";
+  }
+})();
+
 // --- publish transform: strip red values, keep attributed link-outs -----------
 function publishField(fl) {
   const pub = fl.values.filter((v) => lic(v.source) !== "red");
@@ -177,7 +188,7 @@ detentionsystemdata@gmail.com or open an issue — **and show us the public sour
 - Field-office assignments disagree between sources in South Texas (the Harlingen
   carve-out); disagreements are shown, not resolved.
 - \`immigrationCourt\` values are **same-ZIP co-location inferences**, not jurisdiction.
-- Populations/statistics come from the most recent ICE workbook (**as of 2026-04-09**);
+- Populations/statistics come from the most recent ICE workbook (**as of ${biweeklyAsOf}**);
   ICE publishes intermittently.
 - No coordinates/GeoJSON yet (county FIPS ships on every record).
 
